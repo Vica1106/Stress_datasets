@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Aqr	0.106254629120984	2.0690919811762e-05	0.0119569780375895	aquarius(Aqr)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11834&tool=geneReport
+Rbm4b	-0.176595932376332	1.90571968360958e-05	0.0119569780375895	RNA binding motif protein 4B(Rbm4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66704&tool=geneReport
+Srp68	0.0948420599734978	2.08434375187493e-05	0.0119569780375895	signal recognition particle 68(Srp68)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217337&tool=geneReport
+Cdc5l	0.147299475554352	7.18621219949973e-05	0.0189476536010459	cell division cycle 5-like(Cdc5l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71702&tool=geneReport
+Snrnp35	0.154192626898442	9.05670731707933e-05	0.0206412281816816	small nuclear ribonucleoprotein 35 (U11/U12)(Snrnp35)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76167&tool=geneReport
+Mov10	-0.225630904680344	0.0001318901449161	0.0229688768629325	Mov10 RISC complex RNA helicase(Mov10)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Synj2	0.155484649866127	0.0002209123877897	0.029354712749141	synaptojanin 2(Synj2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20975&tool=geneReport
+Caprin1	0.0927958827666526	0.0003450313866758	0.0378040914366841	cell cycle associated protein 1(Caprin1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53872&tool=geneReport
+Stau1	0.0682762765785172	0.0003927432478383	0.0404638135076955	staufen double-stranded RNA binding protein 1(Stau1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20853&tool=geneReport
+Ddx1	0.0910853545923462	0.0004788252399467	0.0444122262160549	DEAD box helicase 1(Ddx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104721&tool=geneReport

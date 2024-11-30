@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Sbsn	-0.344123575708045	8.46966208636702e-08	0.0007934379442508	suprabasin(Sbsn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=282619&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Ccdc142	-0.258381171045648	7.16992343299613e-07	0.0019190812205802	coiled-coil domain containing 142(Ccdc142)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=243510&tool=geneReport
+Ccdc62	-0.292479327431841	1.57026726831523e-05	0.0119569780375895	coiled-coil domain containing 62(Ccdc62)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208908&tool=geneReport
+Pes1	0.109792743599389	4.46124789006551e-05	0.0163894000918171	pescadillo ribosomal biogenesis factor 1(Pes1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=64934&tool=geneReport
+Prc1	-0.246946352375549	5.49374754142588e-05	0.017590920241666	protein regulator of cytokinesis 1(Prc1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233406&tool=geneReport
+Ushbp1	-0.303624463462973	5.3180763117895e-05	0.017590920241666	USH1 protein network component harmonin binding protein 1(Ushbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=234395&tool=geneReport
+Cdc5l	0.147299475554352	7.18621219949973e-05	0.0189476536010459	cell division cycle 5-like(Cdc5l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71702&tool=geneReport
+Nudc	0.0940752909786067	7.28133571346769e-05	0.0189476536010459	nudC nuclear distribution protein(Nudc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18221&tool=geneReport
+Whamm	-0.109436092286937	7.5417422365584e-05	0.0190948760194808	WAS protein homolog associated with actin, golgi membranes and microtubules(Whamm)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434204&tool=geneReport

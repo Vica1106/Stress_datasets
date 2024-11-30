@@ -1,0 +1,46 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Nsun5	-0.141728402684795	0.0048908821095309	0.12391845270775	NOL1/NOP2/Sun domain family, member 5(Nsun5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100609&tool=geneReport
+Celf3	-0.114456585559431	0.0087435686392619	0.159718575181921	CUGBP, Elav-like family member 3(Celf3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=78784&tool=geneReport
+Hnrnph2	0.0732867189192288	0.0020993602839523	0.0872142223506225	heterogeneous nuclear ribonucleoprotein H2(Hnrnph2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56258&tool=geneReport
+Rbm7	0.084033945441737	0.00154310012724	0.0750110831444804	RNA binding motif protein 7(Rbm7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67010&tool=geneReport
+Snrpd3	0.0827372810077337	0.0021207818142054	0.0873296001559398	small nuclear ribonucleoprotein D3(Snrpd3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67332&tool=geneReport
+Snrnp35	0.154192626898442	9.05670731707933e-05	0.0206412281816816	small nuclear ribonucleoprotein 35 (U11/U12)(Snrnp35)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76167&tool=geneReport
+Nsun7	-0.223928811512439	0.0047912944960062	0.122972183119416	NOL1/NOP2/Sun domain family, member 7(Nsun7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70918&tool=geneReport
+Rbmxl1	0.0918786363782389	0.004411240448128	0.118578193739062	RNA binding motif protein, X-linked like-1(Rbmxl1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19656&tool=geneReport
+Ddx55	-0.106655932941167	0.0061217978531009	0.137692682563865	DEAD box helicase 55(Ddx55)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67848&tool=geneReport
+G3bp2	0.100186450323306	0.0030526192417068	0.10268200020219	G3BP stress granule assembly factor 2(G3bp2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23881&tool=geneReport
+Cpeb1	-0.111858909252688	0.0081854354065108	0.155920638864845	cytoplasmic polyadenylation element binding protein 1(Cpeb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12877&tool=geneReport
+Mex3c	0.0807650340777868	0.0020992918644113	0.0872142223506225	mex3 RNA binding family member C(Mex3c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=240396&tool=geneReport
+Ddx1	0.0910853545923462	0.0004788252399467	0.0444122262160549	DEAD box helicase 1(Ddx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104721&tool=geneReport
+Rbm4b	-0.176595932376332	1.90571968360958e-05	0.0119569780375895	RNA binding motif protein 4B(Rbm4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66704&tool=geneReport
+Hnrnpa1	0.0658465173062437	0.0096974680127376	0.165924156689134	heterogeneous nuclear ribonucleoprotein A1(Hnrnpa1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15382&tool=geneReport
+Mbnl2	0.106382143338143	0.0016888115467705	0.0777434229491211	muscleblind like splicing factor 2(Mbnl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=105559&tool=geneReport
+Cdc5l	0.147299475554352	7.18621219949973e-05	0.0189476536010459	cell division cycle 5-like(Cdc5l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71702&tool=geneReport
+Cirbp	-0.195017619561775	0.0005539067414167	0.0463303424427869	cold inducible RNA binding protein(Cirbp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12696&tool=geneReport
+Ddx6	0.083420992829354	0.0046971555256726	0.121850184120153	DEAD-box helicase 6(Ddx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13209&tool=geneReport
+Sfswap	-0.133898665634396	0.0085312973569935	0.157939376398144	splicing factor SWAP(Sfswap)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231769&tool=geneReport
+Hnrnpk	0.0657570892947394	0.0069691718513355	0.14657450026741	heterogeneous nuclear ribonucleoprotein K(Hnrnpk)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15387&tool=geneReport
+Hnrnpa3	0.0676527486938521	0.0070310185974324	0.146696174211019	heterogeneous nuclear ribonucleoprotein A3(Hnrnpa3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=229279&tool=geneReport
+Snrnp70	-0.114798994958253	0.0083586152946557	0.15676377994061	small nuclear ribonucleoprotein 70 (U1)(Snrnp70)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20637&tool=geneReport
+Trnt1	0.0944555344883158	0.0027358982404271	0.0983873117709073	tRNA nucleotidyl transferase, CCA-adding, 1(Trnt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70047&tool=geneReport
+Hnrnpu	-0.0662072188826927	0.0096475920782699	0.165924156689134	heterogeneous nuclear ribonucleoprotein U(Hnrnpu)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=51810&tool=geneReport
+Larp4	0.102436816797847	0.0018112214521057	0.0807977264920323	La ribonucleoprotein 4(Larp4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=207214&tool=geneReport
+Ybx2	-0.315811000406258	0.002060417647389	0.0863658075675098	Y box protein 2(Ybx2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53422&tool=geneReport
+Mov10	-0.225630904680344	0.0001318901449161	0.0229688768629325	Mov10 RISC complex RNA helicase(Mov10)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Synj2	0.155484649866127	0.0002209123877897	0.029354712749141	synaptojanin 2(Synj2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20975&tool=geneReport
+Rbm18	0.0744577837042956	0.001540871425579	0.0750110831444804	RNA binding motif protein 18(Rbm18)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67889&tool=geneReport
+Caprin1	0.0927958827666526	0.0003450313866758	0.0378040914366841	cell cycle associated protein 1(Caprin1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53872&tool=geneReport
+Eif5a2	0.130688574407446	0.0050372114168376	0.126510982715644	eukaryotic translation initiation factor 5A2(Eif5a2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208691&tool=geneReport
+Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
+Trmt1	-0.123956072909327	0.0022500955194361	0.0890811547778878	tRNA methyltransferase 1(Trmt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=212528&tool=geneReport
+Pabpn1	-0.218445557093115	0.0010952182170654	0.0653155530816548	poly(A) binding protein, nuclear 1(Pabpn1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54196&tool=geneReport
+Eif4e	0.0902495445933952	0.001199778978263	0.0675970937617826	eukaryotic translation initiation factor 4E(Eif4e)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13684&tool=geneReport
+Stau1	0.0682762765785172	0.0003927432478383	0.0404638135076955	staufen double-stranded RNA binding protein 1(Stau1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20853&tool=geneReport
+Fus	-0.118188660764762	0.003155474680048	0.104524300009768	fused in sarcoma(Fus)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233908&tool=geneReport
+Serbp1	0.0905240003150875	0.0018575488270525	0.0816972648442659	serpine1 mRNA binding protein 1(Serbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66870&tool=geneReport
+Ncl	0.0880964721177241	0.0039453981793067	0.114064903627572	nucleolin(Ncl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17975&tool=geneReport
+Eif4b	0.0712952593086071	0.0009110807738383	0.0603180543414678	eukaryotic translation initiation factor 4B(Eif4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75705&tool=geneReport
+Srp68	0.0948420599734978	2.08434375187493e-05	0.0119569780375895	signal recognition particle 68(Srp68)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217337&tool=geneReport
+Aqr	0.106254629120984	2.0690919811762e-05	0.0119569780375895	aquarius(Aqr)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11834&tool=geneReport
+Cpsf4l	-0.213417443765804	0.0035313501673375	0.11007333699494	cleavage and polyadenylation specific factor 4-like(Cpsf4l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=52670&tool=geneReport
+Arc	0.364649134667718	0.0059551944399027	0.136448305021165	activity regulated cytoskeletal-associated protein(Arc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11838&tool=geneReport

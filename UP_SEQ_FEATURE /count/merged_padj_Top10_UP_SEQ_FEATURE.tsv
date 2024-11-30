@@ -1,0 +1,21 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Sbsn	-0.344123575708045	8.46966208636702e-08	0.0007934379442508	suprabasin(Sbsn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=282619&tool=geneReport
+Gm10654	-0.423816270865303	4.82946982277597e-07	0.0018096989319906	predicted gene 10654(Gm10654)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=665828&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Ccdc142	-0.258381171045648	7.16992343299613e-07	0.0019190812205802	coiled-coil domain containing 142(Ccdc142)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=243510&tool=geneReport
+Rnf4	0.105036711763991	1.49527255334178e-06	0.0031128251732679	ring finger protein 4(Rnf4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19822&tool=geneReport
+Nup50	0.080698386120186	2.39380915074037e-06	0.0040773098407519	nucleoporin 50(Nup50)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18141&tool=geneReport
+Wee1	0.1746050297747	2.25643866689626e-06	0.0040773098407519	WEE 1 homolog 1 (S. pombe)(Wee1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22390&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Spry4	0.166830619095948	6.65942666896686e-06	0.0077981886293601	sprouty RTK signaling antagonist 4(Spry4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24066&tool=geneReport
+Hdac7	-0.256441051103814	1.45280140741204e-05	0.0118346465953356	histone deacetylase 7(Hdac7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56233&tool=geneReport
+Sbsn	-0.344123575708045	8.46966208636702e-08	0.0007934379442508	suprabasin(Sbsn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=282619&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Gm10654	-0.423816270865303	4.82946982277597e-07	0.0018096989319906	predicted gene 10654(Gm10654)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=665828&tool=geneReport
+Rnf4	0.105036711763991	1.49527255334178e-06	0.0031128251732679	ring finger protein 4(Rnf4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19822&tool=geneReport
+Wee1	0.1746050297747	2.25643866689626e-06	0.0040773098407519	WEE 1 homolog 1 (S. pombe)(Wee1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22390&tool=geneReport
+Nup50	0.080698386120186	2.39380915074037e-06	0.0040773098407519	nucleoporin 50(Nup50)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18141&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Spry4	0.166830619095948	6.65942666896686e-06	0.0077981886293601	sprouty RTK signaling antagonist 4(Spry4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24066&tool=geneReport
+Hdac7	-0.256441051103814	1.45280140741204e-05	0.0118346465953356	histone deacetylase 7(Hdac7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56233&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport

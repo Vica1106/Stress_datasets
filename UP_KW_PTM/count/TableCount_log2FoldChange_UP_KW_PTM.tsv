@@ -1,0 +1,7 @@
+Gene_Name	Count	log2FoldChange	URL
+Ddb1	2	0.0466081366332288	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13194&tool=geneReport
+Mapre1	2	0.0518580525026804	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13589&tool=geneReport
+Aggf1	2	0.0570232562277729	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66549&tool=geneReport
+Pafah1b2	2	0.0601297195143421	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18475&tool=geneReport
+Mybbp1a	2	-0.0604909798218872	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18432&tool=geneReport
+Ranbp10	2	-0.0606059253953652	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74334&tool=geneReport

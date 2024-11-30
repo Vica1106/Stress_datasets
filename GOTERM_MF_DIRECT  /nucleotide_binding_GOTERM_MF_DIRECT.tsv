@@ -1,0 +1,84 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Stk19	-0.110580408614678	0.0073389045939857	0.148510851708445	serine/threonine kinase 19(Stk19)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54402&tool=geneReport
+Actr3	0.0856936560170771	0.0082887638096025	0.155955087576951	ARP3 actin-related protein 3(Actr3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74117&tool=geneReport
+Myo9b	-0.17238703958625	0.0046397949916316	0.121074093263524	myosin IXb(Myo9b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17925&tool=geneReport
+Atp11b	-0.106708730384989	0.0044368166942519	0.11874207641861	ATPase, class VI, type 11B(Atp11b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76295&tool=geneReport
+Stk38	-0.101244083264718	0.0092467116604329	0.163112287869273	serine/threonine kinase 38(Stk38)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=106504&tool=geneReport
+Ddx55	-0.106655932941167	0.0061217978531009	0.137692682563865	DEAD box helicase 55(Ddx55)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67848&tool=geneReport
+Atad1	0.0689222299903614	0.0060073079957991	0.136448305021165	ATPase family, AAA domain containing 1(Atad1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67979&tool=geneReport
+Rab33b	0.06944114197516	0.0070853995888621	0.147012233329924	RAB33B, member RAS oncogene family(Rab33b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19338&tool=geneReport
+Pan3	-0.0942915815954687	0.006548812968366	0.143675128542513	PAN3 poly(A) specific ribonuclease subunit(Pan3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72587&tool=geneReport
+Mapkapk5	-0.309150428278794	0.0024073934226044	0.0923304914728549	MAP kinase-activated protein kinase 5(Mapkapk5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17165&tool=geneReport
+Abcf2	0.0708616646679339	0.0007314887692233	0.0533275236582417	ATP-binding cassette, sub-family F member 2(Abcf2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=27407&tool=geneReport
+Ddx1	0.0910853545923462	0.0004788252399467	0.0444122262160549	DEAD box helicase 1(Ddx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104721&tool=geneReport
+Pank3	0.12200749085272	0.0014659348878629	0.0741038308138283	pantothenate kinase 3(Pank3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=211347&tool=geneReport
+Stk24	0.098231755562693	0.0048138158473433	0.123066668558238	serine/threonine kinase 24(Stk24)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=223255&tool=geneReport
+Abca17	-0.238283726270261	0.0075810036659671	0.150054673369724	ATP-binding cassette, sub-family A member 17(Abca17)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=381072&tool=geneReport
+Rhoq	0.099497284511833	0.0053548790342581	0.130570666767544	ras homolog family member Q(Rhoq)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104215&tool=geneReport
+Ddx6	0.083420992829354	0.0046971555256726	0.121850184120153	DEAD-box helicase 6(Ddx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13209&tool=geneReport
+Cdk6	-0.169494959982859	0.0015038142108018	0.074341591170405	cyclin dependent kinase 6(Cdk6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12571&tool=geneReport
+Matk	-0.13319848039962	0.0022032162157345	0.0878018300677726	megakaryocyte-associated tyrosine kinase(Matk)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17179&tool=geneReport
+Sik1	0.321993195411017	0.0004326781429158	0.0426666193982658	salt inducible kinase 1(Sik1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17691&tool=geneReport
+Abcc6	-0.31945364208219	0.0086198468478269	0.158958120611107	ATP-binding cassette, sub-family C member 6(Abcc6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=27421&tool=geneReport
+Trnt1	0.0944555344883158	0.0027358982404271	0.0983873117709073	tRNA nucleotidyl transferase, CCA-adding, 1(Trnt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70047&tool=geneReport
+Tbk1	0.0862662341431617	0.0004476631335277	0.0430123921526926	TANK-binding kinase 1(Tbk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56480&tool=geneReport
+Rheb	0.0733012902996111	0.004336052021552	0.117855644892346	Ras homolog enriched in brain(Rheb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19744&tool=geneReport
+Rhot1	0.08157449928859	0.0020747845164213	0.0867704524546202	ras homolog family member T1(Rhot1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=59040&tool=geneReport
+Acsl6	0.0789259614382089	0.0088257281787323	0.159718575181921	acyl-CoA synthetase long-chain family member 6(Acsl6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=216739&tool=geneReport
+Irak2	0.098806444857388	0.0040736140122525	0.115017826330954	interleukin-1 receptor-associated kinase 2(Irak2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=108960&tool=geneReport
+Mapk12	-0.284827314773605	7.07757523953049e-05	0.0189476536010459	mitogen-activated protein kinase 12(Mapk12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=29857&tool=geneReport
+Gfm2	-0.0986164018964437	0.0080931183107382	0.155718021286715	G elongation factor, mitochondrial 2(Gfm2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=320806&tool=geneReport
+Lars2	0.854192780937368	0.0024777769195566	0.0936572889275794	leucyl-tRNA synthetase, mitochondrial(Lars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102436&tool=geneReport
+Hspa4	0.0791872989383313	0.0033019557950685	0.106888426117937	heat shock protein 4(Hspa4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15525&tool=geneReport
+Rrm1	0.113985759295545	0.0004019901000589	0.0409330788842589	ribonucleotide reductase M1(Rrm1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20133&tool=geneReport
+Abcb7	0.096446525734124	0.0054352267973713	0.131061015798648	ATP-binding cassette, sub-family B member 7(Abcb7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11306&tool=geneReport
+Map3k8	-0.195917628278766	0.0053792339171564	0.130570666767544	mitogen-activated protein kinase kinase kinase 8(Map3k8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26410&tool=geneReport
+Mov10	-0.225630904680344	0.0001318901449161	0.0229688768629325	Mov10 RISC complex RNA helicase(Mov10)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Pak1	0.119521305138947	0.0015493856307063	0.0750110831444804	p21 (RAC1) activated kinase 1(Pak1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18479&tool=geneReport
+Xylb	-0.127972037073697	0.0066169461702143	0.144028274994376	xylulokinase homolog (H. influenzae)(Xylb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102448&tool=geneReport
+Vars2	-0.119052037896686	0.000122064506095	0.0222038891863837	valyl-tRNA synthetase 2, mitochondrial(Vars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68915&tool=geneReport
+Kif21a	0.0837455601356216	0.0088072084817758	0.159718575181921	kinesin family member 21A(Kif21a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16564&tool=geneReport
+Atp2c1	0.078298193591621	0.0094468175048187	0.164494026738182	ATPase, Ca++-sequestering(Atp2c1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=235574&tool=geneReport
+Hspa12b	-0.210704105554428	0.0012809015285776	0.0695975470023926	heat shock protein 12B(Hspa12b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72630&tool=geneReport
+Gtpbp1	0.0890814294162884	0.0078401285839308	0.153332619152953	GTP binding protein 1(Gtpbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14904&tool=geneReport
+Kif3b	0.0726733384101305	0.009411027378273	0.164329814166893	kinesin family member 3B(Kif3b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16569&tool=geneReport
+Actr8	0.0753542573060664	0.0031687554657103	0.104524300009768	ARP8 actin-related protein 8(Actr8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56249&tool=geneReport
+Aqr	0.106254629120984	2.0690919811762e-05	0.0119569780375895	aquarius(Aqr)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11834&tool=geneReport
+Kif5b	0.101477821109139	0.0006210956422762	0.0496044146766989	kinesin family member 5B(Kif5b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16573&tool=geneReport
+Prkcb	0.123360627961489	0.0094454389087371	0.164494026738182	protein kinase C, beta(Prkcb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18751&tool=geneReport
+Eef2k	-0.0831529451856273	0.0016871871539407	0.0777434229491211	eukaryotic elongation factor-2 kinase(Eef2k)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13631&tool=geneReport
+Tyk2	-0.155088304587357	0.0067125757866962	0.144737526572536	tyrosine kinase 2(Tyk2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54721&tool=geneReport
+Smarca5	0.0905656849238322	0.0011070527263052	0.0653155530816548	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5(Smarca5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=93762&tool=geneReport
+Jak3	-0.171314896364318	0.0026498709833011	0.097204046398103	Janus kinase 3(Jak3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16453&tool=geneReport
+Atp13a5	-0.149138736190689	0.0049178610478748	0.124346888789451	ATPase type 13A5(Atp13a5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=268878&tool=geneReport
+Rasl11b	0.111614262119262	0.0088868722855067	0.160254513129215	RAS-like, family 11, member B(Rasl11b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68939&tool=geneReport
+Rab36	-0.0938131630569208	0.0059212710711968	0.136448305021165	RAB36, member RAS oncogene family(Rab36)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76877&tool=geneReport
+Fer	0.120314461552749	0.0025038958310729	0.0938259845819644	FER tyrosine kinase(Fer)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14158&tool=geneReport
+Kif22	-0.160839910977647	0.0066394969249635	0.144312777710112	kinesin family member 22(Kif22)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=110033&tool=geneReport
+Npr2	-0.136229062739064	0.0009201880582714	0.0604216260160414	natriuretic peptide receptor 2(Npr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=230103&tool=geneReport
+Stk38l	0.0921680980599457	0.0055058472348886	0.131746556568165	serine/threonine kinase 38 like(Stk38l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=232533&tool=geneReport
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+Helq	-0.123811532110314	0.0034836868624271	0.109698079083084	helicase, POLQ-like(Helq)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=191578&tool=geneReport
+Slc27a1	-0.115222034434215	0.0038028423231601	0.11324694007343	solute carrier family 27 (fatty acid transporter), member 1(Slc27a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26457&tool=geneReport
+Stard9	-0.190304669219211	0.0020146130802471	0.0855913620669175	StAR related lipid transfer domain containing 9(Stard9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=668880&tool=geneReport
+Lig4	0.0939822991889961	0.0068335244419228	0.14513197146466	ligase IV, DNA, ATP-dependent(Lig4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=319583&tool=geneReport
+Arl5b	0.111392087254075	0.0012251747410817	0.0685220117877853	ADP-ribosylation factor-like 5B(Arl5b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75869&tool=geneReport
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Myh6	-0.332546851524488	0.0027058229211691	0.0976807288073699	myosin, heavy polypeptide 6, cardiac muscle, alpha(Myh6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17888&tool=geneReport
+Hnrnpu	-0.0662072188826927	0.0096475920782699	0.165924156689134	heterogeneous nuclear ribonucleoprotein U(Hnrnpu)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=51810&tool=geneReport
+Abcd4	-0.114697378999375	0.0023725520173591	0.0914652975251884	ATP-binding cassette, sub-family D member 4(Abcd4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19300&tool=geneReport
+Chkb	-0.116983484881814	0.0029403937904231	0.101448004541541	choline kinase beta(Chkb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12651&tool=geneReport
+Rps6kb2	-0.234340642600582	0.0035543535910514	0.11007333699494	ribosomal protein S6 kinase, polypeptide 2(Rps6kb2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=58988&tool=geneReport
+Sbk1	0.0857799934708573	0.008720871654324	0.159718575181921	SH3-binding kinase 1(Sbk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104175&tool=geneReport
+Paics	0.0813716167431561	0.0037901753370593	0.11324694007343	phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoribosylaminoimidazole, succinocarboxamide synthetase(Paics)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67054&tool=geneReport
+Hspa4l	0.109335069952761	0.0025412633526892	0.0948468330198926	heat shock protein 4 like(Hspa4l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18415&tool=geneReport
+Caprin1	0.0927958827666526	0.0003450313866758	0.0378040914366841	cell cycle associated protein 1(Caprin1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53872&tool=geneReport
+Dyrk3	0.152120337505662	0.0029759004773459	0.101448004541541	dual-specificity tyrosine phosphorylation regulated kinase 3(Dyrk3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226419&tool=geneReport
+Tk1	-0.266479955605092	0.0047085574990921	0.121850184120153	thymidine kinase 1(Tk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21877&tool=geneReport
+Nek7	0.0740818180413708	0.0032552416054816	0.106626235525007	NIMA (never in mitosis gene a)-related expressed kinase 7(Nek7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=59125&tool=geneReport
+Wee1	0.1746050297747	2.25643866689626e-06	0.0040773098407519	WEE 1 homolog 1 (S. pombe)(Wee1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22390&tool=geneReport
+Phkg1	-0.154454246533166	0.0006067293620635	0.0494247014244492	phosphorylase kinase gamma 1(Phkg1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18682&tool=geneReport
+Smc1a	0.0917229540852853	0.0021141225431655	0.0873296001559398	structural maintenance of chromosomes 1A(Smc1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24061&tool=geneReport
+Gfm1	0.0862287397038589	0.0019790546753696	0.0851583306062342	G elongation factor, mitochondrial 1(Gfm1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=28030&tool=geneReport
+Adcy2	0.0821231018605183	0.0040048898410333	0.114122525334866	adenylate cyclase 2(Adcy2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=210044&tool=geneReport
+Pkn3	-0.379727759761177	0.0001533036895748	0.0241706536451451	protein kinase N3(Pkn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=263803&tool=geneReport

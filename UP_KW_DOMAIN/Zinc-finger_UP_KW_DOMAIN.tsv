@@ -1,0 +1,80 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Gm14308	1.97563382558135	0.0012501298628334	1.0	predicted gene 14308(Gm14308)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100043381&tool=geneReport
+Rnf185	0.0677328000536572	0.0053268713966501	0.130570666767544	ring finger protein 185(Rnf185)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=193670&tool=geneReport
+Kdm4c	0.0889057613044091	0.0096292592101561	0.165821507869013	lysine (K)-specific demethylase 4C(Kdm4c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76804&tool=geneReport
+Myo9b	-0.17238703958625	0.0046397949916316	0.121074093263524	myosin IXb(Myo9b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17925&tool=geneReport
+Ankzf1	-0.146164511894932	0.0035014826644312	0.109705316389271	ankyrin repeat and zinc finger domain containing 1(Ankzf1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=52231&tool=geneReport
+Gm15446	-0.0907799218377444	0.0099455920812545	0.167723324243371	predicted gene 15446(Gm15446)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100642166&tool=geneReport
+Zfp87	0.12316382910153	0.0024546389227452	0.0932862370315525	zinc finger protein 87(Zfp87)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=170763&tool=geneReport
+Zfp740	-0.0707582797443909	0.0098856326243389	0.167012815914891	zinc finger protein 740(Zfp740)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68744&tool=geneReport
+Pan3	-0.0942915815954687	0.006548812968366	0.143675128542513	PAN3 poly(A) specific ribonuclease subunit(Pan3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72587&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Mnat1	0.123068106732414	0.0042355814432632	0.116190122871128	menage a trois 1(Mnat1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17420&tool=geneReport
+Mex3c	0.0807650340777868	0.0020992918644113	0.0872142223506225	mex3 RNA binding family member C(Mex3c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=240396&tool=geneReport
+Rreb1	-0.31628370735606	8.06299358366089e-05	0.0196192529588923	ras responsive element binding protein 1(Rreb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68750&tool=geneReport
+Rbm4b	-0.176595932376332	1.90571968360958e-05	0.0119569780375895	RNA binding motif protein 4B(Rbm4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66704&tool=geneReport
+Rnf6	0.0845899229039485	0.0024003255853485	0.0923304914728549	ring finger protein (C3H2C3 type) 6(Rnf6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74132&tool=geneReport
+Zbtb11	0.117283168219072	0.0002542846401347	0.0324100477385367	zinc finger and BTB domain containing 11(Zbtb11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=271377&tool=geneReport
+Bcl6	0.23040244469084	0.0043726452931524	0.118139055309756	B cell leukemia/lymphoma 6(Bcl6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12053&tool=geneReport
+Zc3h3	-0.126246780205803	2.43752044023674e-05	0.0123422266368512	zinc finger CCCH type containing 3(Zc3h3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=223642&tool=geneReport
+Thap1	0.0988082900240676	0.0029330500033649	0.101390451776838	THAP domain containing, apoptosis associated protein 1(Thap1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=73754&tool=geneReport
+Zfp692	-0.219819985389252	0.0054009536050836	0.130570666767544	zinc finger protein 692(Zfp692)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=103836&tool=geneReport
+Phf21a	-0.073670318437548	0.0008356852668688	0.0573122703380029	PHD finger protein 21A(Phf21a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=192285&tool=geneReport
+Zfp27	0.0806196825975803	0.0063876708143518	0.141131368369924	zinc finger protein 27(Zfp27)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22689&tool=geneReport
+Trafd1	-0.0846598829152559	0.0008381491285553	0.0573122703380029	TRAF type zinc finger domain containing 1(Trafd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231712&tool=geneReport
+Topors	0.11211877951587	0.0003054799113566	0.0362245039188488	topoisomerase I binding, arginine/serine-rich(Topors)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=106021&tool=geneReport
+Zbtb41	0.102167398374743	0.0098832582628351	0.167012815914891	zinc finger and BTB domain containing 41(Zbtb41)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226470&tool=geneReport
+Nr1d2	0.0856061862413269	0.0070187873336282	0.146604235766844	nuclear receptor subfamily 1, group D, member 2(Nr1d2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=353187&tool=geneReport
+Zfp641	-0.104301834619896	0.0035406527301294	0.11007333699494	zinc finger protein 641(Zfp641)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=239652&tool=geneReport
+Zmym3	-0.0897872648281217	0.0081096635679496	0.155718021286715	zinc finger, MYM-type 3(Zmym3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56364&tool=geneReport
+Trim32	0.0607314167359842	0.0064057752234109	0.141198358336269	tripartite motif-containing 32(Trim32)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
+Aebp2	0.0910823103493136	0.0005799504511253	0.0478676284241584	AE binding protein 2(Aebp2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11569&tool=geneReport
+Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
+Trmt1	-0.123956072909327	0.0022500955194361	0.0890811547778878	tRNA methyltransferase 1(Trmt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=212528&tool=geneReport
+Zfp422	0.0773100880672091	0.0037775215881312	0.113241031160365	zinc finger protein 422(Zfp422)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67255&tool=geneReport
+Fus	-0.118188660764762	0.003155474680048	0.104524300009768	fused in sarcoma(Fus)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233908&tool=geneReport
+Zcchc13	-1.12973790108853	0.0030811423093232	1.0	zinc finger, CCHC domain containing 13(Zcchc13)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75064&tool=geneReport
+Dzip1l	-0.086866528189064	0.007147649425087	0.147152876044259	DAZ interacting protein 1-like(Dzip1l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72507&tool=geneReport
+Zfp719	0.127347881371522	0.0003371414772983	0.0378040914366841	zinc finger protein 719(Zfp719)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=210105&tool=geneReport
+Zfp57	-0.213681967460458	0.0082095129897115	0.155920638864845	zinc finger protein 57(Zfp57)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22715&tool=geneReport
+Smap1	0.0958632546405233	0.0059011078819738	0.136448305021165	small ArfGAP 1(Smap1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=98366&tool=geneReport
+Prkcb	0.123360627961489	0.0094454389087371	0.164494026738182	protein kinase C, beta(Prkcb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18751&tool=geneReport
+Trim72	-0.35672647689966	0.0081997022704247	0.155920638864845	tripartite motif-containing 72(Trim72)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434246&tool=geneReport
+Mzf1	-0.130156296974565	0.0002192049731105	0.0293358884014187	myeloid zinc finger 1(Mzf1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=109889&tool=geneReport
+Zfp14	0.0976270062102244	0.0057147230490425	0.134850190235341	zinc finger protein 14(Zfp14)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=243906&tool=geneReport
+Il17rd	-0.136810478999339	0.0093196548931391	0.16364859801111	interleukin 17 receptor D(Il17rd)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171463&tool=geneReport
+Zfp68	0.101679059427632	0.0040079324119524	0.114122525334866	zinc finger protein 68(Zfp68)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24135&tool=geneReport
+Usp49	-0.148003721520139	0.0011691941856308	0.0671963873066863	ubiquitin specific peptidase 49(Usp49)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=224836&tool=geneReport
+Nr6a1	-0.167699076924585	0.0081525960970896	0.155920638864845	nuclear receptor subfamily 6, group A, member 1(Nr6a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14536&tool=geneReport
+Rnf31	-0.094595946326748	0.0046239484708787	0.120828868271108	ring finger protein 31(Rnf31)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=268749&tool=geneReport
+Zfp180	0.0897927236429927	5.65027814377569e-05	0.017590920241666	zinc finger protein 180(Zfp180)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=210135&tool=geneReport
+Egr1	0.371963576150312	0.0002728995536428	0.033861232033465	early growth response 1(Egr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13653&tool=geneReport
+Mbnl2	0.106382143338143	0.0016888115467705	0.0777434229491211	muscleblind like splicing factor 2(Mbnl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=105559&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Zfyve28	-0.0860537146202312	0.0079785650881468	0.154908181856497	zinc finger, FYVE domain containing 28(Zfyve28)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231125&tool=geneReport
+Egr4	0.215166404227836	0.0035365750771234	0.11007333699494	early growth response 4(Egr4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13656&tool=geneReport
+Tiparp	0.198352687232365	0.0004934555277779	0.044603741157753	TCDD-inducible poly(ADP-ribose) polymerase(Tiparp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=99929&tool=geneReport
+Zfp78	0.149664351343146	0.0058004972535408	0.135411479189199	zinc finger protein 78(Zfp78)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=330463&tool=geneReport
+Kmt2d	-0.15408045241191	0.0038835022089761	0.113962799213471	lysine (K)-specific methyltransferase 2D(Kmt2d)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=381022&tool=geneReport
+Gmip	-0.200404581730333	0.0001730697876191	0.0258700763758865	Gem-interacting protein(Gmip)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=78816&tool=geneReport
+L3mbtl1	-0.244839121089915	0.0009302814883996	0.0605199790508866	L3MBTL1 histone methyl-lysine binding protein(L3mbtl1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=241764&tool=geneReport
+Zfp408	-0.10322527292361	0.0006847699534302	0.0512601421886624	zinc finger protein 408(Zfp408)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=381410&tool=geneReport
+Champ1	0.0679045713229731	0.0041941828505833	0.11597232344006	chromosome alignment maintaining phosphoprotein 1(Champ1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=101994&tool=geneReport
+Rnf2	0.105058340416787	0.0007983883070719	0.0562657902942992	ring finger protein 2(Rnf2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19821&tool=geneReport
+Rnf4	0.105036711763991	1.49527255334178e-06	0.0031128251732679	ring finger protein 4(Rnf4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19822&tool=geneReport
+Zfp605	0.127469980701132	0.002172250342529	0.08771397072764	zinc finger protein 605(Zfp605)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=675812&tool=geneReport
+A430033K04Rik	0.0912631181654973	0.0021952471687605	0.0878018300677726	RIKEN cDNA A430033K04 gene(A430033K04Rik)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=243308&tool=geneReport
+Ints12	0.101318379739864	0.0057048711688364	0.134787473164338	integrator complex subunit 12(Ints12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71793&tool=geneReport
+Mbtd1	-0.0935872931354015	0.0044534416451671	0.118772582726765	mbt domain containing 1(Mbtd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=103537&tool=geneReport
+Zhx1	0.11166431957307	0.0009507845315087	0.0607982900421426	zinc fingers and homeoboxes 1(Zhx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22770&tool=geneReport
+Aire	-0.361038297628323	0.0041354646876072	0.11597232344006	autoimmune regulator(Aire)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11634&tool=geneReport
+Gpatch8	-0.132098111765988	0.0004768673420881	0.0444122262160549	G patch domain containing 8(Gpatch8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=237943&tool=geneReport
+Slx1b	-0.0990898360616192	0.0034429097093323	0.109332807311951	SLX1 structure-specific endonuclease subunit homolog B (S. cerevisiae)(Slx1b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75764&tool=geneReport
+E4f1	-0.141892182217432	0.0016535508582152	0.0772591742631421	E4F transcription factor 1(E4f1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13560&tool=geneReport
+Zfp868	0.110699865680243	0.0006387808088067	0.050058231511467	zinc finger protein 868(Zfp868)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=234362&tool=geneReport
+Wdfy1	-0.113280412387643	0.0013823660356144	0.0720181416318415	WD repeat and FYVE domain containing 1(Wdfy1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69368&tool=geneReport
+Dnmt3a	-0.123278050918738	0.0010198419671133	0.0634809272286885	DNA methyltransferase 3A(Dnmt3a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13435&tool=geneReport
+Maea	0.0642997931281921	0.0058193618116661	0.135611396645991	macrophage erythroblast attacher(Maea)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=59003&tool=geneReport
+Zfp110	0.113200553059706	0.0059086142118218	0.136448305021165	zinc finger protein 110(Zfp110)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=65020&tool=geneReport
+Zfhx2	-0.112133009545146	0.0071960164331988	0.147510463777258	zinc finger homeobox 2(Zfhx2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=239102&tool=geneReport
+Arih1	0.0789484494054722	0.0004389871843367	0.0429506554102666	ariadne RBR E3 ubiquitin protein ligase 1(Arih1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23806&tool=geneReport

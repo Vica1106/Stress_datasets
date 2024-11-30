@@ -1,0 +1,6 @@
+Gene_Name	Count	padj	URL
+Nup50	2	0.0040773098407519	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18141&tool=geneReport
+Nr4a1	2	0.0046929263555399	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Spry4	2	0.0077981886293601	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24066&tool=geneReport
+Dstn	2	0.0110143468069036	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56431&tool=geneReport
+Srp68	2	0.0119569780375895	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217337&tool=geneReport

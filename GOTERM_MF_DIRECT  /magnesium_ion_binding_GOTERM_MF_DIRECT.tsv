@@ -1,0 +1,22 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Rheb	0.0733012902996111	0.004336052021552	0.117855644892346	Ras homolog enriched in brain(Rheb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19744&tool=geneReport
+Mapk12	-0.284827314773605	7.07757523953049e-05	0.0189476536010459	mitogen-activated protein kinase 12(Mapk12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=29857&tool=geneReport
+Ppm1a	0.0717825030754318	0.00829473782843	0.155955087576951	protein phosphatase 1A, magnesium dependent, alpha isoform(Ppm1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19042&tool=geneReport
+Ppm1b	0.0658203983963403	0.0097060672358716	0.165924156689134	protein phosphatase 1B, magnesium dependent, beta isoform(Ppm1b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19043&tool=geneReport
+Prps1l3	0.157328645832774	0.0028642720080499	0.100811548792792	phosphoribosyl pyrophosphate synthetase 1-like 3(Prps1l3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=328099&tool=geneReport
+Atp11b	-0.106708730384989	0.0044368166942519	0.11874207641861	ATPase, class VI, type 11B(Atp11b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76295&tool=geneReport
+Plscr3	-0.130291634219502	0.004273134151022	0.116878016720511	phospholipid scramblase 3(Plscr3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70310&tool=geneReport
+Stk38	-0.101244083264718	0.0092467116604329	0.163112287869273	serine/threonine kinase 38(Stk38)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=106504&tool=geneReport
+Pdcd6	0.078753787112495	0.0032524918531548	0.106626235525007	programmed cell death 6(Pdcd6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18570&tool=geneReport
+Map3k8	-0.195917628278766	0.0053792339171564	0.130570666767544	mitogen-activated protein kinase kinase kinase 8(Map3k8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26410&tool=geneReport
+Dyrk3	0.152120337505662	0.0029759004773459	0.101448004541541	dual-specificity tyrosine phosphorylation regulated kinase 3(Dyrk3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226419&tool=geneReport
+Eno3	-0.195083782365367	0.005745324282236	0.135401755662861	enolase 3, beta muscle(Eno3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13808&tool=geneReport
+Bpnt1	0.111246313281279	0.0080012980501375	0.155028252603285	3'(2'), 5'-bisphosphate nucleotidase 1(Bpnt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23827&tool=geneReport
+Tppp	0.109954218184551	0.0016085574497962	0.0759141873536098	tubulin polymerization promoting protein(Tppp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72948&tool=geneReport
+Stk38l	0.0921680980599457	0.0055058472348886	0.131746556568165	serine/threonine kinase 38 like(Stk38l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=232533&tool=geneReport
+Wee1	0.1746050297747	2.25643866689626e-06	0.0040773098407519	WEE 1 homolog 1 (S. pombe)(Wee1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22390&tool=geneReport
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+Lig4	0.0939822991889961	0.0068335244419228	0.14513197146466	ligase IV, DNA, ATP-dependent(Lig4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=319583&tool=geneReport
+Idh3a	0.0931826988696854	0.001568603018623	0.0751645681762707	isocitrate dehydrogenase 3 (NAD+) alpha(Idh3a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67834&tool=geneReport
+Sik1	0.321993195411017	0.0004326781429158	0.0426666193982658	salt inducible kinase 1(Sik1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17691&tool=geneReport
+Adcy2	0.0821231018605183	0.0040048898410333	0.114122525334866	adenylate cyclase 2(Adcy2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=210044&tool=geneReport
