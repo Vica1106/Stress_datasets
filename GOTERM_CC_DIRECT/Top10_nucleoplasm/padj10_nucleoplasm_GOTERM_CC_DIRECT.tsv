@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Spry4	0.166830619095948	6.65942666896686e-06	0.0077981886293601	sprouty RTK signaling antagonist 4(Spry4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24066&tool=geneReport
+Hdac7	-0.256441051103814	1.45280140741204e-05	0.0118346465953356	histone deacetylase 7(Hdac7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56233&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Srp68	0.0948420599734978	2.08434375187493e-05	0.0119569780375895	signal recognition particle 68(Srp68)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217337&tool=geneReport
+Rbm4b	-0.176595932376332	1.90571968360958e-05	0.0119569780375895	RNA binding motif protein 4B(Rbm4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66704&tool=geneReport
+Anxa9	-0.32471283429245	2.94791078536548e-05	0.0138080141186519	annexin A9(Anxa9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71790&tool=geneReport
+Dffb	-0.25572970973985	3.10102131587586e-05	0.0141709110668903	DNA fragmentation factor, beta subunit(Dffb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13368&tool=geneReport
+Pald1	-0.157477354360755	3.83935660063761e-05	0.0159853745043436	phosphatase domain containing, paladin 1(Pald1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=27355&tool=geneReport

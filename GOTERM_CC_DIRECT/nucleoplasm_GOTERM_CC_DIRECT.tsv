@@ -1,0 +1,204 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Gigyf2	0.0651611953417725	0.0072409850663676	0.14778550784691	GRB10 interacting GYF protein 2(Gigyf2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=227331&tool=geneReport
+Spry4	0.166830619095948	6.65942666896686e-06	0.0077981886293601	sprouty RTK signaling antagonist 4(Spry4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=24066&tool=geneReport
+Stam2	0.1353965416776	0.0003355761203795	0.0378040914366841	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2(Stam2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56324&tool=geneReport
+Myo9b	-0.17238703958625	0.0046397949916316	0.121074093263524	myosin IXb(Myo9b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17925&tool=geneReport
+Stk38	-0.101244083264718	0.0092467116604329	0.163112287869273	serine/threonine kinase 38(Stk38)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=106504&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Itch	0.0934201725190954	0.0014927194386253	0.0743292302355766	itchy, E3 ubiquitin protein ligase(Itch)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16396&tool=geneReport
+Man2c1	-0.153534967556334	0.002676567539485	0.0974592079611292	mannosidase, alpha, class 2C, member 1(Man2c1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=73744&tool=geneReport
+Dusp6	0.192378290621542	0.0002715092321876	0.033861232033465	dual specificity phosphatase 6(Dusp6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67603&tool=geneReport
+Stk24	0.098231755562693	0.0048138158473433	0.123066668558238	serine/threonine kinase 24(Stk24)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=223255&tool=geneReport
+Birc5	-0.288160155126038	0.002492076352963	0.0936714742419721	baculoviral IAP repeat-containing 5(Birc5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11799&tool=geneReport
+Whamm	-0.109436092286937	7.5417422365584e-05	0.0190948760194808	WAS protein homolog associated with actin, golgi membranes and microtubules(Whamm)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434204&tool=geneReport
+Spred1	0.110763870917009	0.000621337722696	0.0496044146766989	sprouty protein with EVH-1 domain 1, related sequence(Spred1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=114715&tool=geneReport
+Ube2v1	-0.420607949872201	0.0013412262834173	0.0713711665576387	ubiquitin-conjugating enzyme E2 variant 1(Ube2v1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66589&tool=geneReport
+Aanat	-0.390329541921692	0.0036693440241512	0.111605242916394	arylalkylamine N-acetyltransferase(Aanat)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11298&tool=geneReport
+Arglu1	-0.100956787779074	0.0064049728639305	0.141198358336269	arginine and glutamate rich 1(Arglu1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=234023&tool=geneReport
+Telo2	-0.14639451772058	0.0001023196157589	0.0210665969325322	telomere maintenance 2(Telo2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71718&tool=geneReport
+Zfp641	-0.104301834619896	0.0035406527301294	0.11007333699494	zinc finger protein 641(Zfp641)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=239652&tool=geneReport
+Pafah1b2	0.0601297195143421	0.0049597484488563	0.124900331905609	platelet-activating factor acetylhydrolase, isoform 1b, subunit 2(Pafah1b2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18475&tool=geneReport
+Mov10	-0.225630904680344	0.0001318901449161	0.0229688768629325	Mov10 RISC complex RNA helicase(Mov10)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Pak1	0.119521305138947	0.0015493856307063	0.0750110831444804	p21 (RAC1) activated kinase 1(Pak1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18479&tool=geneReport
+Xylb	-0.127972037073697	0.0066169461702143	0.144028274994376	xylulokinase homolog (H. influenzae)(Xylb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102448&tool=geneReport
+Wwp1	0.0963677585042543	0.0053875748329649	0.130570666767544	WW domain containing E3 ubiquitin protein ligase 1(Wwp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=107568&tool=geneReport
+Capza1	0.0754130948227197	0.0014189093680039	0.0727681816092527	capping actin protein of muscle Z-line subunit alpha 1(Capza1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12340&tool=geneReport
+Nck1	0.110011465507986	0.0051791981130958	0.12875262034787	non-catalytic region of tyrosine kinase adaptor protein 1(Nck1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17973&tool=geneReport
+Rdh14	0.0730042475734796	0.0076971712308945	0.1513344265462	retinol dehydrogenase 14 (all-trans and 9-cis)(Rdh14)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=105014&tool=geneReport
+Gtpbp1	0.0890814294162884	0.0078401285839308	0.153332619152953	GTP binding protein 1(Gtpbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14904&tool=geneReport
+Dffb	-0.25572970973985	3.10102131587586e-05	0.0141709110668903	DNA fragmentation factor, beta subunit(Dffb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13368&tool=geneReport
+Zfp438	0.137130466174289	0.0005038922692924	0.044603741157753	zinc finger protein 438(Zfp438)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=240186&tool=geneReport
+Fbxw7	0.0874653805214098	0.0058035556035934	0.135411479189199	F-box and WD-40 domain protein 7(Fbxw7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=50754&tool=geneReport
+Golph3	0.0991639628322352	0.0002029842610094	0.0279640670167112	golgi phosphoprotein 3(Golph3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66629&tool=geneReport
+Jak3	-0.171314896364318	0.0026498709833011	0.097204046398103	Janus kinase 3(Jak3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16453&tool=geneReport
+Dlst	0.0614434645606243	0.0001327611161348	0.0229688768629325	dihydrolipoamide S-succinyltransferase(Dlst)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=78920&tool=geneReport
+Cpeb1	-0.111858909252688	0.0081854354065108	0.155920638864845	cytoplasmic polyadenylation element binding protein 1(Cpeb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12877&tool=geneReport
+Etf1	0.0682876103398219	0.0017837571569943	0.0799532873048945	eukaryotic translation termination factor 1(Etf1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=225363&tool=geneReport
+Nedd9	0.187488866490476	0.0002871262273672	0.0349324480256695	neural precursor cell expressed, developmentally down-regulated gene 9(Nedd9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18003&tool=geneReport
+Igbp1	0.120394005282887	9.8859365634144e-05	0.0210665969325322	immunoglobulin (CD79A) binding protein 1(Igbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18518&tool=geneReport
+Stk38l	0.0921680980599457	0.0055058472348886	0.131746556568165	serine/threonine kinase 38 like(Stk38l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=232533&tool=geneReport
+Usp1	0.100548492500995	0.0097334685636825	0.166089496365351	ubiquitin specific peptidase 1(Usp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=230484&tool=geneReport
+Naif1	0.107250171645406	0.0087725135117328	0.159718575181921	nuclear apoptosis inducing factor 1(Naif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71254&tool=geneReport
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Tha1	-0.228438061118117	0.0004445610732516	0.0430123921526926	threonine aldolase 1(Tha1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71776&tool=geneReport
+Hnrnpu	-0.0662072188826927	0.0096475920782699	0.165924156689134	heterogeneous nuclear ribonucleoprotein U(Hnrnpu)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=51810&tool=geneReport
+Ppm1a	0.0717825030754318	0.00829473782843	0.155955087576951	protein phosphatase 1A, magnesium dependent, alpha isoform(Ppm1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19042&tool=geneReport
+Fbxo3	0.0718395052396734	0.0002941153314486	0.0353240054488528	F-box protein 3(Fbxo3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=57443&tool=geneReport
+Ppm1b	0.0658203983963403	0.0097060672358716	0.165924156689134	protein phosphatase 1B, magnesium dependent, beta isoform(Ppm1b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19043&tool=geneReport
+Nrip1	0.119393373070338	0.0068169750891035	0.14513197146466	nuclear receptor interacting protein 1(Nrip1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=268903&tool=geneReport
+Fbxl3	0.0808021539316743	0.0004042878096224	0.040944521086957	F-box and leucine-rich repeat protein 3(Fbxl3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=50789&tool=geneReport
+Nbeal2	-0.246172058940199	8.83681478067452e-05	0.0204403162630516	neurobeachin-like 2(Nbeal2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=235627&tool=geneReport
+Copb2	0.0808593524839773	0.0058353789978042	0.13581572782964	COPI coat complex subunit beta 2(Copb2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=50797&tool=geneReport
+Anxa9	-0.32471283429245	2.94791078536548e-05	0.0138080141186519	annexin A9(Anxa9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71790&tool=geneReport
+Gapdhs	-0.191338227157409	0.0051436710161993	0.128154016169562	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic(Gapdhs)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14447&tool=geneReport
+Eif2b2	0.0765511520063678	0.0037128204313004	0.112380296608795	eukaryotic translation initiation factor 2B, subunit 2 beta(Eif2b2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217715&tool=geneReport
+Caprin1	0.0927958827666526	0.0003450313866758	0.0378040914366841	cell cycle associated protein 1(Caprin1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53872&tool=geneReport
+Dyrk3	0.152120337505662	0.0029759004773459	0.101448004541541	dual-specificity tyrosine phosphorylation regulated kinase 3(Dyrk3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226419&tool=geneReport
+Kcnab1	0.144591107553802	0.0010959047057824	0.0653155530816548	potassium voltage-gated channel, shaker-related subfamily, beta member 1(Kcnab1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16497&tool=geneReport
+Fbxl6	-0.121869115580377	0.001872909925977	0.081969891452753	F-box and leucine-rich repeat protein 6(Fbxl6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=30840&tool=geneReport
+Rps3a1	0.127026875295755	0.0037027650753724	0.11226407202717	ribosomal protein S3A1(Rps3a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20091&tool=geneReport
+Usp8	0.071694969025869	0.0046911966022617	0.121850184120153	ubiquitin specific peptidase 8(Usp8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=84092&tool=geneReport
+Ppm1d	0.0971861595637182	0.0063475950836364	0.140411501165304	protein phosphatase 1D magnesium-dependent, delta isoform(Ppm1d)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53892&tool=geneReport
+Rccd1	-0.206797601876678	0.0001439733725963	0.0238715496368569	RCC1 domain containing 1(Rccd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=269955&tool=geneReport
+Amd2	0.242790114005246	0.0044765780625352	0.118969030609446	S-adenosylmethionine decarboxylase 2(Amd2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100041585&tool=geneReport
+Pdcd6	0.078753787112495	0.0032524918531548	0.106626235525007	programmed cell death 6(Pdcd6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18570&tool=geneReport
+Ap5m1	0.134436913445833	0.0011120656187578	0.0653155530816548	adaptor-related protein complex 5, mu 1 subunit(Ap5m1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74385&tool=geneReport
+Rbm4b	-0.176595932376332	1.90571968360958e-05	0.0119569780375895	RNA binding motif protein 4B(Rbm4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66704&tool=geneReport
+Sbds	0.101960804908758	5.05381445445999e-05	0.017590920241666	SBDS ribosome maturation factor(Sbds)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66711&tool=geneReport
+Tbk1	0.0862662341431617	0.0004476631335277	0.0430123921526926	TANK-binding kinase 1(Tbk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56480&tool=geneReport
+Aldh4a1	-0.105964169117181	0.0042936613293981	0.11714391268002	aldehyde dehydrogenase 4 family, member A1(Aldh4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=212647&tool=geneReport
+Hspa4	0.0791872989383313	0.0033019557950685	0.106888426117937	heat shock protein 4(Hspa4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15525&tool=geneReport
+Rrm1	0.113985759295545	0.0004019901000589	0.0409330788842589	ribonucleotide reductase M1(Rrm1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20133&tool=geneReport
+Plscr3	-0.130291634219502	0.004273134151022	0.116878016720511	phospholipid scramblase 3(Plscr3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70310&tool=geneReport
+Hadhb	0.0853489457474098	0.0028732582757979	0.100811548792792	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta(Hadhb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231086&tool=geneReport
+Kif21a	0.0837455601356216	0.0088072084817758	0.159718575181921	kinesin family member 21A(Kif21a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16564&tool=geneReport
+Rpl7l1	0.080619850089802	0.0023171912739887	0.0904476993946939	ribosomal protein L7-like 1(Rpl7l1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66229&tool=geneReport
+Kif3b	0.0726733384101305	0.009411027378273	0.164329814166893	kinesin family member 3B(Kif3b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16569&tool=geneReport
+Slc40a1	-0.119251000176772	0.00916372646637	0.162126136991415	solute carrier family 40 (iron-regulated transporter), member 1(Slc40a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53945&tool=geneReport
+Setd4	-0.202309161109472	0.0003125847612164	0.0363372850904655	SET domain containing 4(Setd4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=224440&tool=geneReport
+Kif5b	0.101477821109139	0.0006210956422762	0.0496044146766989	kinesin family member 5B(Kif5b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16573&tool=geneReport
+Fhod1	-0.238952326295049	0.0028659071344368	0.100811548792792	formin homology 2 domain containing 1(Fhod1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=234686&tool=geneReport
+Phpt1	-0.168334026104585	0.0053695851153855	0.130570666767544	phosphohistidine phosphatase 1(Phpt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75454&tool=geneReport
+Arhgap4	-0.216296822181469	0.0045594085635396	0.120466886218072	Rho GTPase activating protein 4(Arhgap4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171207&tool=geneReport
+Zfyve9	0.0982528887798911	0.0010105005894886	0.0633201974737746	zinc finger, FYVE domain containing 9(Zfyve9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=230597&tool=geneReport
+Abhd14b	-0.160566516682062	0.0058627429085998	0.136114437590492	abhydrolase domain containing 14b(Abhd14b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76491&tool=geneReport
+Dcun1d1	0.0895045677020146	0.0030117884970188	0.101787412214321	defective in cullin neddylation 1 domain containing 1(Dcun1d1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=114893&tool=geneReport
+Glrx3	0.116106086466523	0.0015865406564945	0.075445242995131	glutaredoxin 3(Glrx3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=30926&tool=geneReport
+Nos2	-0.347786755323277	0.0013624045175959	0.071624171458959	nitric oxide synthase 2, inducible(Nos2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18126&tool=geneReport
+Nos3	-0.201394227663891	0.0054534485083234	0.131162787229715	nitric oxide synthase 3, endothelial cell(Nos3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18127&tool=geneReport
+Midn	0.148541116851032	0.0031535266809519	0.104524300009768	midnolin(Midn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=59090&tool=geneReport
+Zfyve28	-0.0860537146202312	0.0079785650881468	0.154908181856497	zinc finger, FYVE domain containing 28(Zfyve28)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231125&tool=geneReport
+Flnb	-0.187884356563364	0.006798195388763	0.145069463330141	filamin, beta(Flnb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=286940&tool=geneReport
+Pald1	-0.157477354360755	3.83935660063761e-05	0.0159853745043436	phosphatase domain containing, paladin 1(Pald1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=27355&tool=geneReport
+Usp25	0.117665230623595	0.0070087451908355	0.14657450026741	ubiquitin specific peptidase 25(Usp25)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=30940&tool=geneReport
+Bag5	0.0946009721729174	0.001025499357097	0.0635104091891722	BCL2-associated athanogene 5(Bag5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70369&tool=geneReport
+Pdcl3	0.159578272670755	0.0036316094946227	0.111543992608608	phosducin-like 3(Pdcl3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68833&tool=geneReport
+Tppp	0.109954218184551	0.0016085574497962	0.0759141873536098	tubulin polymerization promoting protein(Tppp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72948&tool=geneReport
+Krt20	-0.416557102886978	0.0016065994894015	0.0759141873536098	keratin 20(Krt20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66809&tool=geneReport
+Wdfy1	-0.113280412387643	0.0013823660356144	0.0720181416318415	WD repeat and FYVE domain containing 1(Wdfy1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69368&tool=geneReport
+Srp68	0.0948420599734978	2.08434375187493e-05	0.0119569780375895	signal recognition particle 68(Srp68)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217337&tool=geneReport
+Ano6	-0.10506315433646	0.0039495585717971	0.114064903627572	anoctamin 6(Ano6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=105722&tool=geneReport
+Fabp3	0.112257483347001	0.0085738347289759	0.158265386681865	fatty acid binding protein 3, muscle and heart(Fabp3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14077&tool=geneReport
+Man1a	0.188805175069095	0.0005325525856174	0.045786099691887	mannosidase 1, alpha(Man1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17155&tool=geneReport
+Snrpd3	0.0827372810077337	0.0021207818142054	0.0873296001559398	small nuclear ribonucleoprotein D3(Snrpd3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67332&tool=geneReport
+Kpna1	0.0844250570403273	0.0024468452937743	0.0931790516751154	karyopherin subunit alpha 1(Kpna1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16646&tool=geneReport
+Kpna2	0.122991150501866	0.0026965084813273	0.0976807288073699	karyopherin subunit alpha 2(Kpna2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16647&tool=geneReport
+Ddx55	-0.106655932941167	0.0061217978531009	0.137692682563865	DEAD box helicase 55(Ddx55)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67848&tool=geneReport
+Mapkapk5	-0.309150428278794	0.0024073934226044	0.0923304914728549	MAP kinase-activated protein kinase 5(Mapkapk5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17165&tool=geneReport
+Ddx1	0.0910853545923462	0.0004788252399467	0.0444122262160549	DEAD box helicase 1(Ddx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104721&tool=geneReport
+Ppp6c	0.0857863570579709	0.0075546139083826	0.149910576175112	protein phosphatase 6, catalytic subunit(Ppp6c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67857&tool=geneReport
+Lrrc45	-0.224242898701555	0.002678879808923	0.0974592079611292	leucine rich repeat containing 45(Lrrc45)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217366&tool=geneReport
+Cdk6	-0.169494959982859	0.0015038142108018	0.074341591170405	cyclin dependent kinase 6(Cdk6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12571&tool=geneReport
+Fcho1	-0.123962739773293	0.0069795545153731	0.14657450026741	FCH domain only 1(Fcho1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74015&tool=geneReport
+Ankrd11	-0.0602435165139852	0.0075098477601443	0.149910576175112	ankyrin repeat domain 11(Ankrd11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77087&tool=geneReport
+Dhtkd1	-0.186520467007136	0.0020413970859474	0.085974874845389	dehydrogenase E1 and transketolase domain containing 1(Dhtkd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=209692&tool=geneReport
+Ubxn2a	0.135506178091696	0.0001824595525409	0.0262222658954685	UBX domain protein 2A(Ubxn2a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217379&tool=geneReport
+Mri1	-0.177484011571962	0.0001845164382837	0.0262222658954685	methylthioribose-1-phosphate isomerase 1(Mri1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67873&tool=geneReport
+Rheb	0.0733012902996111	0.004336052021552	0.117855644892346	Ras homolog enriched in brain(Rheb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19744&tool=geneReport
+Gfm2	-0.0986164018964437	0.0080931183107382	0.155718021286715	G elongation factor, mitochondrial 2(Gfm2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=320806&tool=geneReport
+Ostm1	0.0719116399554718	0.0011613431010397	0.0669505364340923	osteopetrosis associated transmembrane protein 1(Ostm1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14628&tool=geneReport
+Mbd2	0.123050968999395	0.0017520199338504	0.079098422844874	methyl-CpG binding domain protein 2(Mbd2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17191&tool=geneReport
+Map3k8	-0.195917628278766	0.0053792339171564	0.130570666767544	mitogen-activated protein kinase kinase kinase 8(Map3k8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26410&tool=geneReport
+Nudc	0.0940752909786067	7.28133571346769e-05	0.0189476536010459	nudC nuclear distribution protein(Nudc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18221&tool=geneReport
+Rbm18	0.0744577837042956	0.001540871425579	0.0750110831444804	RNA binding motif protein 18(Rbm18)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67889&tool=geneReport
+Pde4c	-0.354526874929615	0.0041855474394136	0.11597232344006	phosphodiesterase 4C, cAMP specific(Pde4c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=110385&tool=geneReport
+Vars2	-0.119052037896686	0.000122064506095	0.0222038891863837	valyl-tRNA synthetase 2, mitochondrial(Vars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68915&tool=geneReport
+Ppp2r5c	0.0946639761341217	0.006298842169517	0.140141505033552	protein phosphatase 2, regulatory subunit B', gamma(Ppp2r5c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26931&tool=geneReport
+Serbp1	0.0905240003150875	0.0018575488270525	0.0816972648442659	serpine1 mRNA binding protein 1(Serbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66870&tool=geneReport
+Rlbp1	0.14854558798245	0.0018449721684951	0.0815268833701066	retinaldehyde binding protein 1(Rlbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19771&tool=geneReport
+Crtc3	-0.0930053180815153	0.0017355264824762	0.0787332304495759	CREB regulated transcription coactivator 3(Crtc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70461&tool=geneReport
+Mtmr2	0.0714823404607604	0.0079566873088655	0.154643665372309	myotubularin related protein 2(Mtmr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77116&tool=geneReport
+Prkcb	0.123360627961489	0.0094454389087371	0.164494026738182	protein kinase C, beta(Prkcb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18751&tool=geneReport
+Tubgcp5	0.0983502037369942	0.0029961424349908	0.101697811988218	tubulin, gamma complex component 5(Tubgcp5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233276&tool=geneReport
+G3bp2	0.100186450323306	0.0030526192417068	0.10268200020219	G3BP stress granule assembly factor 2(G3bp2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23881&tool=geneReport
+Psmb2	0.150208832561828	0.0028731132094993	0.100811548792792	proteasome (prosome, macropain) subunit, beta type 2(Psmb2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26445&tool=geneReport
+Fer	0.120314461552749	0.0025038958310729	0.0938259845819644	FER tyrosine kinase(Fer)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14158&tool=geneReport
+Socs6	0.100707205758303	0.0009838379096881	0.0618563324695211	suppressor of cytokine signaling 6(Socs6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54607&tool=geneReport
+Hook2	-0.144476251883823	0.0039758871909886	0.114064903627572	hook microtubule tethering protein 2(Hook2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=170833&tool=geneReport
+Mtap	0.143232973190361	0.0001104876751896	0.0220582163990417	methylthioadenosine phosphorylase(Mtap)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66902&tool=geneReport
+Cdan1	-0.140552022819112	0.0010311339557385	0.0635104091891722	codanin 1(Cdan1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68968&tool=geneReport
+Vti1a	0.083477415828825	0.0033391015871564	0.107018835432507	vesicle transport through interaction with t-SNAREs 1A(Vti1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53611&tool=geneReport
+Dcaf12	0.0818191241109943	0.0017203666431552	0.0783800764737619	DDB1 and CUL4 associated factor 12(Dcaf12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68970&tool=geneReport
+Vti1b	0.0735857678791097	0.0043509192755406	0.117972248258364	vesicle transport through interaction with t-SNAREs 1B(Vti1b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53612&tool=geneReport
+Stam	0.071162719543033	0.0073004042150885	0.148191087078981	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1(Stam)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20844&tool=geneReport
+Larp4	0.102436816797847	0.0018112214521057	0.0807977264920323	La ribonucleoprotein 4(Larp4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=207214&tool=geneReport
+Eif4e	0.0902495445933952	0.001199778978263	0.0675970937617826	eukaryotic translation initiation factor 4E(Eif4e)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13684&tool=geneReport
+Stau1	0.0682762765785172	0.0003927432478383	0.0404638135076955	staufen double-stranded RNA binding protein 1(Stau1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20853&tool=geneReport
+Tk1	-0.266479955605092	0.0047085574990921	0.121850184120153	thymidine kinase 1(Tk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21877&tool=geneReport
+Sh3glb2	-0.0780083703557084	0.0082542265465451	0.155920638864845	SH3-domain GRB2-like endophilin B2(Sh3glb2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=227700&tool=geneReport
+Eif4g2	0.0850936297076366	0.0010333017239224	0.0635104091891722	eukaryotic translation initiation factor 4, gamma 2(Eif4g2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13690&tool=geneReport
+Spag5	-0.201940561175172	0.0032257607000675	0.106217666918217	sperm associated antigen 5(Spag5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54141&tool=geneReport
+Bnipl	-0.618350554570698	0.0027027736876208	0.0976807288073699	BCL2/adenovirus E1B 19kD interacting protein like(Bnipl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171388&tool=geneReport
+Pank3	0.12200749085272	0.0014659348878629	0.0741038308138283	pantothenate kinase 3(Pank3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=211347&tool=geneReport
+Copg2	0.0656344558128704	0.0091317655349404	0.161866375650563	coatomer protein complex, subunit gamma 2(Copg2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54160&tool=geneReport
+Ell	-0.0986074224965983	0.0039401796412978	0.114064903627572	elongation factor RNA polymerase II(Ell)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13716&tool=geneReport
+Ddx6	0.083420992829354	0.0046971555256726	0.121850184120153	DEAD-box helicase 6(Ddx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13209&tool=geneReport
+Rad21	0.0774831581602478	0.0073294069981833	0.148510851708445	RAD21 cohesin complex component(Rad21)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19357&tool=geneReport
+Trnt1	0.0944555344883158	0.0027358982404271	0.0983873117709073	tRNA nucleotidyl transferase, CCA-adding, 1(Trnt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70047&tool=geneReport
+Thsd1	-0.188443421476093	0.0003141887374389	0.0363372850904655	thrombospondin, type I, domain 1(Thsd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56229&tool=geneReport
+Pes1	0.109792743599389	4.46124789006551e-05	0.0163894000918171	pescadillo ribosomal biogenesis factor 1(Pes1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=64934&tool=geneReport
+Hdac7	-0.256441051103814	1.45280140741204e-05	0.0118346465953356	histone deacetylase 7(Hdac7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56233&tool=geneReport
+Errfi1	0.10003352412316	0.002278266327941	0.0894876266673016	ERBB receptor feedback inhibitor 1(Errfi1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74155&tool=geneReport
+Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
+Pabpn1	-0.218445557093115	0.0010952182170654	0.0653155530816548	poly(A) binding protein, nuclear 1(Pabpn1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54196&tool=geneReport
+Commd1	0.0716354540796882	0.008920055169097	0.160389782771787	COMM domain containing 1(Commd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17846&tool=geneReport
+Amd1	0.0737146022019577	0.0059720766689712	0.136448305021165	S-adenosylmethionine decarboxylase 1(Amd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11702&tool=geneReport
+Unc45b	-0.26095995308827	0.0027516270344283	0.0985745394207456	unc-45 myosin chaperone B(Unc45b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217012&tool=geneReport
+Eif4b	0.0712952593086071	0.0009110807738383	0.0603180543414678	eukaryotic translation initiation factor 4B(Eif4b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75705&tool=geneReport
+Ldhb	0.0936973720472109	0.0057905333933099	0.135411479189199	lactate dehydrogenase B(Ldhb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16832&tool=geneReport
+Shc1	-0.134325234005446	0.004385006286447	0.118139055309756	src homology 2 domain-containing transforming protein C1(Shc1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20416&tool=geneReport
+Tyk2	-0.155088304587357	0.0067125757866962	0.144737526572536	tyrosine kinase 2(Tyk2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54721&tool=geneReport
+Tbc1d10c	-0.338759329672143	0.001576567863928	0.0753535089248896	TBC1 domain family, member 10c(Tbc1d10c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=108995&tool=geneReport
+Hnrnph2	0.0732867189192288	0.0020993602839523	0.0872142223506225	heterogeneous nuclear ribonucleoprotein H2(Hnrnph2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56258&tool=geneReport
+Mxi1	0.104139223514896	0.006136807930385	0.137864788229848	MAX interactor 1, dimerization protein(Mxi1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17859&tool=geneReport
+Trub1	-0.0702474821294746	0.0080873207467158	0.155718021286715	TruB pseudouridine (psi) synthase family member 1(Trub1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72133&tool=geneReport
+Efr3a	0.122457001200243	0.0047210129043589	0.12200399693251	EFR3 homolog A(Efr3a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76740&tool=geneReport
+Ccdc91	0.0936297935619812	0.0003496270940844	0.0378116926361281	coiled-coil domain containing 91(Ccdc91)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67015&tool=geneReport
+Rnf31	-0.094595946326748	0.0046239484708787	0.120828868271108	ring finger protein 31(Rnf31)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=268749&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Fosb	0.231239145282593	0.0035872717223855	0.110901632370538	FBJ osteosarcoma oncogene B(Fosb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14282&tool=geneReport
+Ndor1	-0.11792358903516	0.0067340450015041	0.144737526572536	NADPH dependent diflavin oxidoreductase 1(Ndor1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=78797&tool=geneReport
+Kif22	-0.160839910977647	0.0066394969249635	0.144312777710112	kinesin family member 22(Kif22)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=110033&tool=geneReport
+Psmd8	0.0822263913778569	6.00253952778868e-05	0.017590920241666	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8(Psmd8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=57296&tool=geneReport
+Rpl19	0.103212093806053	0.0011330001178533	0.066130499090655	ribosomal protein L19(Rpl19)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19921&tool=geneReport
+Strada	-0.127260722683773	0.001250073063777	0.0690549348182194	STE20-related kinase adaptor alpha(Strada)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72149&tool=geneReport
+Prdm11	-0.116928968847383	0.0010768795474215	0.065085210324163	PR domain containing 11(Prdm11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100042784&tool=geneReport
+Gmppa	-0.113385641098581	0.0013754986370865	0.0719869901241704	GDP-mannose pyrophosphorylase A(Gmppa)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69080&tool=geneReport
+Wasl	0.0774012937690228	0.0073399364155647	0.148510851708445	WASP like actin nucleation promoting factor(Wasl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=73178&tool=geneReport
+Crocc	-0.174741697516579	0.0057781415359824	0.135411479189199	ciliary rootlet coiled-coil, rootletin(Crocc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=230872&tool=geneReport
+Eif2d	-0.070931351690659	0.0091852546580812	0.162200689230735	eukaryotic translation initiation factor 2D(Eif2d)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16865&tool=geneReport
+Gmip	-0.200404581730333	0.0001730697876191	0.0258700763758865	Gem-interacting protein(Gmip)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=78816&tool=geneReport
+Aftph	0.0572935810231487	0.0082988483301782	0.155955087576951	aftiphilin(Aftph)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=216549&tool=geneReport
+Mtfmt	-0.0739702031606803	0.0019134470435464	0.0831794519904549	mitochondrial methionyl-tRNA formyltransferase(Mtfmt)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69606&tool=geneReport
+Aifm3	-0.191104030322385	0.0015843216672286	0.075445242995131	apoptosis-inducing factor, mitochondrion-associated 3(Aifm3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72168&tool=geneReport
+Plekha3	0.0739269423468199	0.0087246178132536	0.159718575181921	pleckstrin homology domain-containing, family A (phosphoinositide binding specific) member 3(Plekha3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=83435&tool=geneReport
+Ints9	0.106744700242619	0.0005371528200339	0.045786099691887	integrator complex subunit 9(Ints9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=210925&tool=geneReport
+Paics	0.0813716167431561	0.0037901753370593	0.11324694007343	phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoribosylaminoimidazole, succinocarboxamide synthetase(Paics)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67054&tool=geneReport
+Hspa4l	0.109335069952761	0.0025412633526892	0.0948468330198926	heat shock protein 4 like(Hspa4l)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18415&tool=geneReport
+Eno3	-0.195083782365367	0.005745324282236	0.135401755662861	enolase 3, beta muscle(Eno3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13808&tool=geneReport
+Prrx1	-0.119211849707537	0.0081868329019423	0.155920638864845	paired related homeobox 1(Prrx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18933&tool=geneReport
+Snx6	0.0903700547142337	0.0096625004448212	0.165924156689134	sorting nexin 6(Snx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72183&tool=geneReport
+Tpcn2	-0.249665480923794	0.0001354214289697	0.0229688768629325	two pore segment channel 2(Tpcn2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233979&tool=geneReport
+Alkbh3	-0.136718329908304	0.0096015489960671	0.165648823195501	alkB homolog 3, alpha-ketoglutarate-dependent dioxygenase(Alkbh3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69113&tool=geneReport
+Btbd1	0.0684115704277551	0.0045499612452371	0.120406884026503	BTB domain containing 1(Btbd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=83962&tool=geneReport
+Zfp110	0.113200553059706	0.0059086142118218	0.136448305021165	zinc finger protein 110(Zfp110)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=65020&tool=geneReport

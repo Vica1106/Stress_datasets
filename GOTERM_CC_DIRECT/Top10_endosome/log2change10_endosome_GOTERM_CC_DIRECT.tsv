@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Tgoln1	0.126464212964454	2.81459025507909e-05	0.0135215802613235	trans-golgi network protein(Tgoln1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22134&tool=geneReport
+Pla2g3	-0.318342250920902	5.81702719009433e-05	0.017590920241666	phospholipase A2, group III(Pla2g3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=237625&tool=geneReport
+Tpcn2	-0.249665480923794	0.0001354214289697	0.0229688768629325	two pore segment channel 2(Tpcn2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233979&tool=geneReport
+Golph3	0.0991639628322352	0.0002029842610094	0.0279640670167112	golgi phosphoprotein 3(Golph3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66629&tool=geneReport
+Scyl2	0.0860381301473951	0.0002761952158759	0.0340446945042849	SCY1-like 2 (S. cerevisiae)(Scyl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=213326&tool=geneReport
+Thsd1	-0.188443421476093	0.0003141887374389	0.0363372850904655	thrombospondin, type I, domain 1(Thsd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56229&tool=geneReport
+Stam2	0.1353965416776	0.0003355761203795	0.0378040914366841	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2(Stam2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56324&tool=geneReport
+Abhd6	0.113918330255044	0.0004778865591115	0.0444122262160549	abhydrolase domain containing 6(Abhd6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66082&tool=geneReport
+Slc9a5	-0.15204704126989	0.0008153161914038	0.0567872273685611	solute carrier family 9 (sodium/hydrogen exchanger), member 5(Slc9a5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=277973&tool=geneReport
+Ap5m1	0.134436913445833	0.0011120656187578	0.0653155530816548	adaptor-related protein complex 5, mu 1 subunit(Ap5m1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74385&tool=geneReport

@@ -1,0 +1,46 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Gigyf2	0.0651611953417725	0.0072409850663676	0.14778550784691	GRB10 interacting GYF protein 2(Gigyf2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=227331&tool=geneReport
+Slc30a4	0.106981429146085	0.0021530613013984	0.0876912895588506	solute carrier family 30 (zinc transporter), member 4(Slc30a4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22785&tool=geneReport
+Dennd6b	-0.217418587221667	0.0013446851940033	0.0713711665576387	DENN domain containing 6B(Dennd6b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69440&tool=geneReport
+Stam2	0.1353965416776	0.0003355761203795	0.0378040914366841	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2(Stam2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56324&tool=geneReport
+Golph3	0.0991639628322352	0.0002029842610094	0.0279640670167112	golgi phosphoprotein 3(Golph3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66629&tool=geneReport
+Atp11b	-0.106708730384989	0.0044368166942519	0.11874207641861	ATPase, class VI, type 11B(Atp11b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=76295&tool=geneReport
+Ankrd13d	-0.0912365037208557	0.0070033524768711	0.14657450026741	ankyrin repeat domain 13 family, member D(Ankrd13d)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68423&tool=geneReport
+Clvs1	0.145179210937545	0.0089605535214444	0.160809320668375	clavesin 1(Clvs1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74438&tool=geneReport
+Pdcd6	0.078753787112495	0.0032524918531548	0.106626235525007	programmed cell death 6(Pdcd6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18570&tool=geneReport
+Rab33b	0.06944114197516	0.0070853995888621	0.147012233329924	RAB33B, member RAS oncogene family(Rab33b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19338&tool=geneReport
+Itch	0.0934201725190954	0.0014927194386253	0.0743292302355766	itchy, E3 ubiquitin protein ligase(Itch)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16396&tool=geneReport
+Scyl2	0.0860381301473951	0.0002761952158759	0.0340446945042849	SCY1-like 2 (S. cerevisiae)(Scyl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=213326&tool=geneReport
+Ap5m1	0.134436913445833	0.0011120656187578	0.0653155530816548	adaptor-related protein complex 5, mu 1 subunit(Ap5m1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74385&tool=geneReport
+Slc9a5	-0.15204704126989	0.0008153161914038	0.0567872273685611	solute carrier family 9 (sodium/hydrogen exchanger), member 5(Slc9a5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=277973&tool=geneReport
+Stx7	0.0676117848240094	0.0070828639639869	0.147012233329924	syntaxin 7(Stx7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53331&tool=geneReport
+Zdhhc2	0.110348922520702	0.0026011030674158	0.0962861065351906	zinc finger, DHHC domain containing 2(Zdhhc2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70546&tool=geneReport
+Zfyve28	-0.0860537146202312	0.0079785650881468	0.154908181856497	zinc finger, FYVE domain containing 28(Zfyve28)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=231125&tool=geneReport
+Kcnq1	-0.309494878409262	0.0082293693285105	0.155920638864845	potassium voltage-gated channel, subfamily Q, member 1(Kcnq1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16535&tool=geneReport
+Tmem150b	-0.421199242529243	0.0083505719697984	0.15676377994061	transmembrane protein 150B(Tmem150b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=330460&tool=geneReport
+Tmem106b	0.0833064927945009	0.0087214854076379	0.159718575181921	transmembrane protein 106B(Tmem106b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71900&tool=geneReport
+Vps39	0.0714178744993525	0.0039611800552439	0.114064903627572	VPS39 HOPS complex subunit(Vps39)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=269338&tool=geneReport
+Tm9sf3	0.0699210268360702	0.0015535624348247	0.0750194478837004	transmembrane 9 superfamily member 3(Tm9sf3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=107358&tool=geneReport
+Leprotl1	0.067056691160559	0.0033388639265975	0.107018835432507	leptin receptor overlapping transcript-like 1(Leprotl1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68192&tool=geneReport
+Abhd6	0.113918330255044	0.0004778865591115	0.0444122262160549	abhydrolase domain containing 6(Abhd6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66082&tool=geneReport
+Thsd1	-0.188443421476093	0.0003141887374389	0.0363372850904655	thrombospondin, type I, domain 1(Thsd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56229&tool=geneReport
+Vti1a	0.083477415828825	0.0033391015871564	0.107018835432507	vesicle transport through interaction with t-SNAREs 1A(Vti1a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53611&tool=geneReport
+Vti1b	0.0735857678791097	0.0043509192755406	0.117972248258364	vesicle transport through interaction with t-SNAREs 1B(Vti1b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53612&tool=geneReport
+Stam	0.071162719543033	0.0073004042150885	0.148191087078981	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1(Stam)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20844&tool=geneReport
+Mamdc4	-0.268831663162389	0.0084652711512315	0.157595752381902	MAM domain containing 4(Mamdc4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=381352&tool=geneReport
+Snx11	-0.0848473475756764	0.0039840339944315	0.114064903627572	sorting nexin 11(Snx11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74479&tool=geneReport
+Exoc4	0.0951496834498756	0.001893325117378	0.0824961381376641	exocyst complex component 4(Exoc4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20336&tool=geneReport
+Snx13	0.0904329416282381	0.0072234152375418	0.147720743559845	sorting nexin 13(Snx13)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=217463&tool=geneReport
+Smpd1	0.100879664263227	0.0029231506102817	0.101235027420036	sphingomyelin phosphodiesterase 1, acid lysosomal(Smpd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20597&tool=geneReport
+Snx6	0.0903700547142337	0.0096625004448212	0.165924156689134	sorting nexin 6(Snx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72183&tool=geneReport
+Scamp1	0.0790911869085905	0.0019953302271635	0.0851583306062342	secretory carrier membrane protein 1(Scamp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=107767&tool=geneReport
+Zmpste24	0.0971517986905614	0.0062318964560014	0.139332711216759	zinc metallopeptidase, STE24(Zmpste24)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=230709&tool=geneReport
+Commd1	0.0716354540796882	0.008920055169097	0.160389782771787	COMM domain containing 1(Commd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17846&tool=geneReport
+Tgoln1	0.126464212964454	2.81459025507909e-05	0.0135215802613235	trans-golgi network protein(Tgoln1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22134&tool=geneReport
+Tpcn2	-0.249665480923794	0.0001354214289697	0.0229688768629325	two pore segment channel 2(Tpcn2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233979&tool=geneReport
+Wdfy1	-0.113280412387643	0.0013823660356144	0.0720181416318415	WD repeat and FYVE domain containing 1(Wdfy1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69368&tool=geneReport
+Pla2g3	-0.318342250920902	5.81702719009433e-05	0.017590920241666	phospholipase A2, group III(Pla2g3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=237625&tool=geneReport
+Usp8	0.071694969025869	0.0046911966022617	0.121850184120153	ubiquitin specific peptidase 8(Usp8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=84092&tool=geneReport
+Mtmr2	0.0714823404607604	0.0079566873088655	0.154643665372309	myotubularin related protein 2(Mtmr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77116&tool=geneReport
+Arc	0.364649134667718	0.0059551944399027	0.136448305021165	activity regulated cytoskeletal-associated protein(Arc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11838&tool=geneReport
+Slc11a2	-0.0729462669141272	0.0022906896479156	0.0897391549297313	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2(Slc11a2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18174&tool=geneReport
