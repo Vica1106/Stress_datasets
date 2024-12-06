@@ -1,14 +1,4 @@
 Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
-Ddb1	0.0466081366332288	0.0071775397658245	0.147292864241499	damage specific DNA binding protein 1(Ddb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13194&tool=geneReport
-Aftph	0.0572935810231487	0.0082988483301782	0.155955087576951	aftiphilin(Aftph)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=216549&tool=geneReport
-Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
-Ankrd11	-0.0602435165139852	0.0075098477601443	0.149910576175112	ankyrin repeat domain 11(Ankrd11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77087&tool=geneReport
-Trim32	0.0607314167359842	0.0064057752234109	0.141198358336269	tripartite motif-containing 32(Trim32)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
-Fbxl20	-0.0626267715124516	0.0026740063047985	0.0974592079611292	F-box and leucine-rich repeat protein 20(Fbxl20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72194&tool=geneReport
-Copg2	0.0656344558128704	0.0091317655349404	0.161866375650563	coatomer protein complex, subunit gamma 2(Copg2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54160&tool=geneReport
-Hnrnpk	0.0657570892947394	0.0069691718513355	0.14657450026741	heterogeneous nuclear ribonucleoprotein K(Hnrnpk)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15387&tool=geneReport
-Hnrnpa1	0.0658465173062437	0.0096974680127376	0.165924156689134	heterogeneous nuclear ribonucleoprotein A1(Hnrnpa1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15382&tool=geneReport
-Strn3	0.0661795617064714	0.0090596692901433	0.161536740178029	striatin, calmodulin binding protein 3(Strn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=94186&tool=geneReport
 Aggf1	0.0570232562277729	0.0089773547287371	0.160956668131692	angiogenic factor with G patch and FHA domains 1(Aggf1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66549&tool=geneReport
 Trim32	0.0607314167359842	0.0064057752234109	0.141198358336269	tripartite motif-containing 32(Trim32)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
 Strn3	0.0661795617064714	0.0090596692901433	0.161536740178029	striatin, calmodulin binding protein 3(Strn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=94186&tool=geneReport
@@ -19,3 +9,23 @@ Abcf2	0.0708616646679339	0.0007314887692233	0.0533275236582417	ATP-binding casse
 Mtmr2	0.0714823404607604	0.0079566873088655	0.154643665372309	myotubularin related protein 2(Mtmr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77116&tool=geneReport
 Usp8	0.071694969025869	0.0046911966022617	0.121850184120153	ubiquitin specific peptidase 8(Usp8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=84092&tool=geneReport
 Kif3b	0.0726733384101305	0.009411027378273	0.164329814166893	kinesin family member 3B(Kif3b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16569&tool=geneReport
+Ddb1	0.0466081366332288	0.0071775397658245	0.147292864241499	damage specific DNA binding protein 1(Ddb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13194&tool=geneReport
+Aftph	0.0572935810231487	0.0082988483301782	0.155955087576951	aftiphilin(Aftph)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=216549&tool=geneReport
+Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
+Ankrd11	-0.0602435165139852	0.0075098477601443	0.149910576175112	ankyrin repeat domain 11(Ankrd11)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=77087&tool=geneReport
+Trim32	0.0607314167359842	0.0064057752234109	0.141198358336269	tripartite motif-containing 32(Trim32)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
+Fbxl20	-0.0626267715124516	0.0026740063047985	0.0974592079611292	F-box and leucine-rich repeat protein 20(Fbxl20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=72194&tool=geneReport
+Copg2	0.0656344558128704	0.0091317655349404	0.161866375650563	coatomer protein complex, subunit gamma 2(Copg2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=54160&tool=geneReport
+Hnrnpk	0.0657570892947394	0.0069691718513355	0.14657450026741	heterogeneous nuclear ribonucleoprotein K(Hnrnpk)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15387&tool=geneReport
+Hnrnpa1	0.0658465173062437	0.0096974680127376	0.165924156689134	heterogeneous nuclear ribonucleoprotein A1(Hnrnpa1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15382&tool=geneReport
+Strn3	0.0661795617064714	0.0090596692901433	0.161536740178029	striatin, calmodulin binding protein 3(Strn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=94186&tool=geneReport
+Zfp106	0.058363964402056	0.0064424583841869	0.141673591885126	zinc finger protein 106(Zfp106)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
+Trim32	0.0607314167359842	0.0064057752234109	0.141198358336269	tripartite motif-containing 32(Trim32)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
+Maea	0.0642997931281921	0.0058193618116661	0.135611396645991	macrophage erythroblast attacher(Maea)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=59003&tool=geneReport
+Rnf185	0.0677328000536572	0.0053268713966501	0.130570666767544	ring finger protein 185(Rnf185)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=193670&tool=geneReport
+Champ1	0.0679045713229731	0.0041941828505833	0.11597232344006	chromosome alignment maintaining phosphoprotein 1(Champ1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=101994&tool=geneReport
+Zfp740	-0.0707582797443909	0.0098856326243389	0.167012815914891	zinc finger protein 740(Zfp740)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68744&tool=geneReport
+Phf21a	-0.073670318437548	0.0008356852668688	0.0573122703380029	PHD finger protein 21A(Phf21a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=192285&tool=geneReport
+Zfp422	0.0773100880672091	0.0037775215881312	0.113241031160365	zinc finger protein 422(Zfp422)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67255&tool=geneReport
+Arih1	0.0789484494054722	0.0004389871843367	0.0429506554102666	ariadne RBR E3 ubiquitin protein ligase 1(Arih1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23806&tool=geneReport
+Zfp27	0.0806196825975803	0.0063876708143518	0.141131368369924	zinc finger protein 27(Zfp27)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22689&tool=geneReport

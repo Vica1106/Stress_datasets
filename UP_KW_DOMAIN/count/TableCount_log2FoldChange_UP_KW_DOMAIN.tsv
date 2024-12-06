@@ -1,0 +1,4 @@
+Gene_Name	Count	log2FoldChange	URL
+Trim32	3	0.0607314167359842	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69807&tool=geneReport
+Strn3	2	0.0661795617064714	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=94186&tool=geneReport
+Zfp106	2	0.058363964402056	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=20402&tool=geneReport
