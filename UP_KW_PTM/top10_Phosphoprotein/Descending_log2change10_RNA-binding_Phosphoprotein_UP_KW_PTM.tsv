@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Ahsg	-2.17410975069491	0.0003007973483414	1.0	alpha-2-HS-glycoprotein(Ahsg)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11625&tool=geneReport
+mt-Co2	1.22748653466088	0.0087950649324052	0.159718575181921	cytochrome c oxidase II, mitochondrial(mt-Co2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17709&tool=geneReport
+Ms4a1	-1.17915227907749	0.008176261740069	1.0	membrane-spanning 4-domains, subfamily A, member 1(Ms4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12482&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Milr1	-0.509795464397002	0.0063470350708051	0.140411501165304	mast cell immunoglobulin like receptor 1(Milr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=380732&tool=geneReport
+Pram1	-0.492639563495587	0.0060624539641487	0.136850768038905	PML-RAR alpha-regulated adaptor molecule 1(Pram1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=378460&tool=geneReport
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+C1s2	-0.472127581029472	0.0003967900079355	0.0406243584080924	complement component 1, s subcomponent 2(C1s2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=317677&tool=geneReport
+Chrdl2	-0.451637553775244	0.0019639442744227	0.0847844698746179	chordin-like 2(Chrdl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69121&tool=geneReport
+Eqtn	-0.433428096647243	0.0006658345871858	0.0509824098121321	equatorin, sperm acrosome associated(Eqtn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport

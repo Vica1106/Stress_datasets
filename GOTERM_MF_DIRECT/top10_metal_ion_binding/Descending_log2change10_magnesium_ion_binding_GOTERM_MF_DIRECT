@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+Sik1	0.321993195411017	0.0004326781429158	0.0426666193982658	salt inducible kinase 1(Sik1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17691&tool=geneReport
+Mapk12	-0.284827314773605	7.07757523953049e-05	0.0189476536010459	mitogen-activated protein kinase 12(Mapk12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=29857&tool=geneReport
+Map3k8	-0.195917628278766	0.0053792339171564	0.130570666767544	mitogen-activated protein kinase kinase kinase 8(Map3k8)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=26410&tool=geneReport
+Eno3	-0.195083782365367	0.005745324282236	0.135401755662861	enolase 3, beta muscle(Eno3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13808&tool=geneReport
+Wee1	0.1746050297747	2.25643866689626e-06	0.0040773098407519	WEE 1 homolog 1 (S. pombe)(Wee1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22390&tool=geneReport
+Prps1l3	0.157328645832774	0.0028642720080499	0.100811548792792	phosphoribosyl pyrophosphate synthetase 1-like 3(Prps1l3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=328099&tool=geneReport
+Dyrk3	0.152120337505662	0.0029759004773459	0.101448004541541	dual-specificity tyrosine phosphorylation regulated kinase 3(Dyrk3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226419&tool=geneReport
+Plscr3	-0.130291634219502	0.004273134151022	0.116878016720511	phospholipid scramblase 3(Plscr3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=70310&tool=geneReport
+Bpnt1	0.111246313281279	0.0080012980501375	0.155028252603285	3'(2'), 5'-bisphosphate nucleotidase 1(Bpnt1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23827&tool=geneReport

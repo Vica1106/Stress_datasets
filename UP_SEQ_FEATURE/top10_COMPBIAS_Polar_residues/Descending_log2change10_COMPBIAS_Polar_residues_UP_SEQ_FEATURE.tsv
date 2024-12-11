@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Rp1	-0.887319280167396	0.0079551087621635	1.0	retinitis pigmentosa 1 (human)(Rp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+G430095P16Rik	-0.686726049839039	0.003093279739596	1.0	RIKEN cDNA G430095P16 gene(G430095P16Rik)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=619292&tool=geneReport
+Zan	-0.678623519365458	3.4697747676726e-05	0.0147749318288895	zonadhesin(Zan)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22635&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Bnipl	-0.618350554570698	0.0027027736876208	0.0976807288073699	BCL2/adenovirus E1B 19kD interacting protein like(Bnipl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171388&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Gm1979	-0.576925917494899	0.0063479599596996	1.0	predicted gene 1979(Gm1979)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100038949&tool=geneReport
+Gm5862	-0.51335921023549	0.0099637148389589	0.167836619934764	predicted gene 5862(Gm5862)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=545739&tool=geneReport
+Pram1	-0.492639563495587	0.0060624539641487	0.136850768038905	PML-RAR alpha-regulated adaptor molecule 1(Pram1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=378460&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport

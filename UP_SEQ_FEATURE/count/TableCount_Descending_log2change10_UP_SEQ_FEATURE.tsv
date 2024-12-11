@@ -1,0 +1,5 @@
+Gene_Name	Count	log2FoldChange	URL
+Rp1	2	-0.887319280167396	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+G430095P16Rik	2	-0.686726049839039	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=619292&tool=geneReport
+Zan	2	-0.678623519365458	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22635&tool=geneReport
+Fos	2	0.619911425087992	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport

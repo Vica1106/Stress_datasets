@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Lars2	0.854192780937368	0.0024777769195566	0.0936572889275794	leucyl-tRNA synthetase, mitochondrial(Lars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102436&tool=geneReport
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+Pkn3	-0.379727759761177	0.0001533036895748	0.0241706536451451	protein kinase N3(Pkn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=263803&tool=geneReport
+Myh6	-0.332546851524488	0.0027058229211691	0.0976807288073699	myosin, heavy polypeptide 6, cardiac muscle, alpha(Myh6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17888&tool=geneReport
+Sik1	0.321993195411017	0.0004326781429158	0.0426666193982658	salt inducible kinase 1(Sik1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17691&tool=geneReport
+Abcc6	-0.31945364208219	0.0086198468478269	0.158958120611107	ATP-binding cassette, sub-family C member 6(Abcc6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=27421&tool=geneReport
+Mapkapk5	-0.309150428278794	0.0024073934226044	0.0923304914728549	MAP kinase-activated protein kinase 5(Mapkapk5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17165&tool=geneReport
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Mapk12	-0.284827314773605	7.07757523953049e-05	0.0189476536010459	mitogen-activated protein kinase 12(Mapk12)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=29857&tool=geneReport
+Tk1	-0.266479955605092	0.0047085574990921	0.121850184120153	thymidine kinase 1(Tk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21877&tool=geneReport

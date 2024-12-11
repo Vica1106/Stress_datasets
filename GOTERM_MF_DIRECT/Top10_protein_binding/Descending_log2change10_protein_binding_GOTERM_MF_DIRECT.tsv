@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Rn7sk	1.66418451034836	8.57431066970217e-05	0.0201975065098746	RNA, 7SK, nuclear(Rn7sk)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19817&tool=geneReport
+Cd27	-0.628693236276582	0.0027968122209869	0.0998115690903065	CD27 antigen(Cd27)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21940&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Milr1	-0.509795464397002	0.0063470350708051	0.140411501165304	mast cell immunoglobulin like receptor 1(Milr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=380732&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Chrdl2	-0.451637553775244	0.0019639442744227	0.0847844698746179	chordin-like 2(Chrdl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69121&tool=geneReport
+Cd80	-0.447143362441925	0.007611322537416	0.150111304274765	CD80 antigen(Cd80)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12519&tool=geneReport
+Eqtn	-0.433428096647243	0.0006658345871858	0.0509824098121321	equatorin, sperm acrosome associated(Eqtn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport

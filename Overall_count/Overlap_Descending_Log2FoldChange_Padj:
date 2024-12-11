@@ -1,0 +1,8 @@
+Gene_Name	Count_padj	padj	Count_Descending_log2FoldChange	log2FoldChange	URL
+Nr4a1	13	0.0046929263555399	10	0.4325465170253279	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Xrcc3	9	0.0019190812205802	3	-0.289596924926362	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Egr2	8	0.0119569780375895	9	0.599209471263157	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Fos	7	0.0119569780375895	10	0.619911425087992	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Mov10	5	0.0229688768629325	3	-0.225630904680344	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Kcp	5	0.0018096989319906	4	-0.458202089543881	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Mapk12	3	0.0189476536010459	3	-0.284827314773605	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=29857&tool=geneReport

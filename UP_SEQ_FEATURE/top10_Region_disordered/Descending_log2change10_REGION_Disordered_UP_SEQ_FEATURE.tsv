@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Ahsg	-2.17410975069491	0.0003007973483414	1.0	alpha-2-HS-glycoprotein(Ahsg)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11625&tool=geneReport
+A530021J07Rik	-1.18389976547414	0.0048844783498375	1.0	Riken cDNA A530021J07 gene(A530021J07Rik)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=330578&tool=geneReport
+Ms4a1	-1.17915227907749	0.008176261740069	1.0	membrane-spanning 4-domains, subfamily A, member 1(Ms4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12482&tool=geneReport
+Prodh2	-1.03181207199609	0.0009944112013385	1.0	proline dehydrogenase (oxidase) 2(Prodh2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56189&tool=geneReport
+Rp1	-0.887319280167396	0.0079551087621635	1.0	retinitis pigmentosa 1 (human)(Rp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+Lars2	0.854192780937368	0.0024777769195566	0.0936572889275794	leucyl-tRNA synthetase, mitochondrial(Lars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102436&tool=geneReport
+G430095P16Rik	-0.686726049839039	0.003093279739596	1.0	RIKEN cDNA G430095P16 gene(G430095P16Rik)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=619292&tool=geneReport
+Zan	-0.678623519365458	3.4697747676726e-05	0.0147749318288895	zonadhesin(Zan)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22635&tool=geneReport
+Cd27	-0.628693236276582	0.0027968122209869	0.0998115690903065	CD27 antigen(Cd27)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21940&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport

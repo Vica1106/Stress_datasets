@@ -1,0 +1,21 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Prodh2	-1.03181207199609	0.0009944112013385	1.0	proline dehydrogenase (oxidase) 2(Prodh2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56189&tool=geneReport
+Lars2	0.854192780937368	0.0024777769195566	0.0936572889275794	leucyl-tRNA synthetase, mitochondrial(Lars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102436&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Ube2v1	-0.420607949872201	0.0013412262834173	0.0713711665576387	ubiquitin-conjugating enzyme E2 variant 1(Ube2v1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66589&tool=geneReport
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Birc5	-0.288160155126038	0.002492076352963	0.0936714742419721	baculoviral IAP repeat-containing 5(Birc5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11799&tool=geneReport
+Shkbp1	-0.268373504846415	0.0008679304726395	0.0589186425194705	Sh3kbp1 binding protein 1(Shkbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=192192&tool=geneReport
+Tk1	-0.266479955605092	0.0047085574990921	0.121850184120153	thymidine kinase 1(Tk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21877&tool=geneReport
+Junb	0.263778539028715	0.0002072915986013	0.028349017455433	jun B proto-oncogene(Junb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16477&tool=geneReport
+Ahsg	-2.17410975069491	0.0003007973483414	1.0	alpha-2-HS-glycoprotein(Ahsg)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11625&tool=geneReport
+mt-Co2	1.22748653466088	0.0087950649324052	0.159718575181921	cytochrome c oxidase II, mitochondrial(mt-Co2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17709&tool=geneReport
+Ms4a1	-1.17915227907749	0.008176261740069	1.0	membrane-spanning 4-domains, subfamily A, member 1(Ms4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12482&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Milr1	-0.509795464397002	0.0063470350708051	0.140411501165304	mast cell immunoglobulin like receptor 1(Milr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=380732&tool=geneReport
+Pram1	-0.492639563495587	0.0060624539641487	0.136850768038905	PML-RAR alpha-regulated adaptor molecule 1(Pram1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=378460&tool=geneReport
+Pif1	-0.47334786514853	0.0045843771281749	0.120466886218072	PIF1 5'-to-3' DNA helicase(Pif1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=208084&tool=geneReport
+C1s2	-0.472127581029472	0.0003967900079355	0.0406243584080924	complement component 1, s subcomponent 2(C1s2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=317677&tool=geneReport
+Chrdl2	-0.451637553775244	0.0019639442744227	0.0847844698746179	chordin-like 2(Chrdl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69121&tool=geneReport
+Eqtn	-0.433428096647243	0.0006658345871858	0.0509824098121321	equatorin, sperm acrosome associated(Eqtn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport

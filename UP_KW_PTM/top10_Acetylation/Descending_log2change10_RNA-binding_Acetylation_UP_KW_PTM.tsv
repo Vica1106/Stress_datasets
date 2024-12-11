@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Prodh2	-1.03181207199609	0.0009944112013385	1.0	proline dehydrogenase (oxidase) 2(Prodh2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56189&tool=geneReport
+Lars2	0.854192780937368	0.0024777769195566	0.0936572889275794	leucyl-tRNA synthetase, mitochondrial(Lars2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=102436&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Ube2v1	-0.420607949872201	0.0013412262834173	0.0713711665576387	ubiquitin-conjugating enzyme E2 variant 1(Ube2v1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66589&tool=geneReport
+Xrcc3	-0.289596924926362	6.22029467898022e-07	0.0019190812205802	X-ray repair complementing defective repair in Chinese hamster cells 3(Xrcc3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74335&tool=geneReport
+Birc5	-0.288160155126038	0.002492076352963	0.0936714742419721	baculoviral IAP repeat-containing 5(Birc5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11799&tool=geneReport
+Shkbp1	-0.268373504846415	0.0008679304726395	0.0589186425194705	Sh3kbp1 binding protein 1(Shkbp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=192192&tool=geneReport
+Tk1	-0.266479955605092	0.0047085574990921	0.121850184120153	thymidine kinase 1(Tk1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21877&tool=geneReport
+Junb	0.263778539028715	0.0002072915986013	0.028349017455433	jun B proto-oncogene(Junb)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16477&tool=geneReport

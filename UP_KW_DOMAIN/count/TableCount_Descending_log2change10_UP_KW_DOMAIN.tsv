@@ -1,0 +1,5 @@
+Gene_Name	Count	log2FoldChange	URL
+Egr2	2	0.599209471263157	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Kcp	2	-0.458202089543881	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Trim72	2	-0.35672647689966	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434246&tool=geneReport
+Gm14308	2	1.97563382558135	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100043381&tool=geneReport

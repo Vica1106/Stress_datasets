@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Tmem150b	-0.421199242529243	0.0083505719697984	0.15676377994061	transmembrane protein 150B(Tmem150b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=330460&tool=geneReport
+Arc	0.364649134667718	0.0059551944399027	0.136448305021165	activity regulated cytoskeletal-associated protein(Arc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11838&tool=geneReport
+Pla2g3	-0.318342250920902	5.81702719009433e-05	0.017590920241666	phospholipase A2, group III(Pla2g3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=237625&tool=geneReport
+Kcnq1	-0.309494878409262	0.0082293693285105	0.155920638864845	potassium voltage-gated channel, subfamily Q, member 1(Kcnq1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16535&tool=geneReport
+Mamdc4	-0.268831663162389	0.0084652711512315	0.157595752381902	MAM domain containing 4(Mamdc4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=381352&tool=geneReport
+Tpcn2	-0.249665480923794	0.0001354214289697	0.0229688768629325	two pore segment channel 2(Tpcn2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=233979&tool=geneReport
+Dennd6b	-0.217418587221667	0.0013446851940033	0.0713711665576387	DENN domain containing 6B(Dennd6b)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69440&tool=geneReport
+Thsd1	-0.188443421476093	0.0003141887374389	0.0363372850904655	thrombospondin, type I, domain 1(Thsd1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=56229&tool=geneReport
+Slc9a5	-0.15204704126989	0.0008153161914038	0.0567872273685611	solute carrier family 9 (sodium/hydrogen exchanger), member 5(Slc9a5)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=277973&tool=geneReport
+Clvs1	0.145179210937545	0.0089605535214444	0.160809320668375	clavesin 1(Clvs1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=74438&tool=geneReport

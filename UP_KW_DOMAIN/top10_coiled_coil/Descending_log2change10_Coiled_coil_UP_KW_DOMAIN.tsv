@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Clec10a	-0.58788367130174	0.0018496961915062	0.0815433125742616	C-type lectin domain family 10, member A(Clec10a)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17312&tool=geneReport
+Gm1979	-0.576925917494899	0.0063479599596996	1.0	predicted gene 1979(Gm1979)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100038949&tool=geneReport
+Gm5862	-0.51335921023549	0.0099637148389589	0.167836619934764	predicted gene 5862(Gm5862)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=545739&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Krt20	-0.416557102886978	0.0016065994894015	0.0759141873536098	keratin 20(Krt20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66809&tool=geneReport
+Pkn3	-0.379727759761177	0.0001533036895748	0.0241706536451451	protein kinase N3(Pkn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=263803&tool=geneReport
+Arc	0.364649134667718	0.0059551944399027	0.136448305021165	activity regulated cytoskeletal-associated protein(Arc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11838&tool=geneReport
+Trim72	-0.35672647689966	0.0081997022704247	0.155920638864845	tripartite motif-containing 72(Trim72)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434246&tool=geneReport
+Otof	-0.346470505584171	0.001185481312185	0.0675970937617826	otoferlin(Otof)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=83762&tool=geneReport
+Sbsn	-0.344123575708045	8.46966208636702e-08	0.0007934379442508	suprabasin(Sbsn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=282619&tool=geneReport

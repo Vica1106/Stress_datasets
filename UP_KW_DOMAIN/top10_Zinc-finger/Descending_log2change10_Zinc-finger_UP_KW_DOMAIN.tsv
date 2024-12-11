@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Gm14308	1.97563382558135	0.0012501298628334	1.0	predicted gene 14308(Gm14308)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100043381&tool=geneReport
+Zcchc13	-1.12973790108853	0.0030811423093232	1.0	zinc finger, CCHC domain containing 13(Zcchc13)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75064&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Egr1	0.371963576150312	0.0002728995536428	0.033861232033465	early growth response 1(Egr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13653&tool=geneReport
+Aire	-0.361038297628323	0.0041354646876072	0.11597232344006	autoimmune regulator(Aire)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11634&tool=geneReport
+Trim72	-0.35672647689966	0.0081997022704247	0.155920638864845	tripartite motif-containing 72(Trim72)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434246&tool=geneReport
+Rreb1	-0.31628370735606	8.06299358366089e-05	0.0196192529588923	ras responsive element binding protein 1(Rreb1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68750&tool=geneReport
+L3mbtl1	-0.244839121089915	0.0009302814883996	0.0605199790508866	L3MBTL1 histone methyl-lysine binding protein(L3mbtl1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=241764&tool=geneReport
+Bcl6	0.23040244469084	0.0043726452931524	0.118139055309756	B cell leukemia/lymphoma 6(Bcl6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12053&tool=geneReport

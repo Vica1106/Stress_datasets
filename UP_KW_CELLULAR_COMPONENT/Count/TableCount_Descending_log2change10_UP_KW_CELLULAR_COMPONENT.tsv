@@ -1,0 +1,7 @@
+Gene_Name	Count	log2FoldChange	URL
+Fos	2	0.619911425087992	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Eqtn	2	-0.433428096647243	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport
+Nr4a1	2	0.432546517025328	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Pkn3	2	-0.379727759761177	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=263803&tool=geneReport
+Egr1	2	0.371963576150312	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13653&tool=geneReport
+Aire	2	-0.361038297628323	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11634&tool=geneReport

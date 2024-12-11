@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Rp1	-0.887319280167396	0.0079551087621635	1.0	retinitis pigmentosa 1 (human)(Rp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Eqtn	-0.433428096647243	0.0006658345871858	0.0509824098121321	equatorin, sperm acrosome associated(Eqtn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Aanat	-0.390329541921692	0.0036693440241512	0.111605242916394	arylalkylamine N-acetyltransferase(Aanat)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11298&tool=geneReport
+Gdpd3	-0.380351705385608	9.45055347938312e-05	0.0208312435282026	glycerophosphodiester phosphodiesterase domain containing 3(Gdpd3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68616&tool=geneReport
+Pkn3	-0.379727759761177	0.0001533036895748	0.0241706536451451	protein kinase N3(Pkn3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=263803&tool=geneReport
+Egr1	0.371963576150312	0.0002728995536428	0.033861232033465	early growth response 1(Egr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13653&tool=geneReport
+Arc	0.364649134667718	0.0059551944399027	0.136448305021165	activity regulated cytoskeletal-associated protein(Arc)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11838&tool=geneReport
+Aire	-0.361038297628323	0.0041354646876072	0.11597232344006	autoimmune regulator(Aire)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11634&tool=geneReport

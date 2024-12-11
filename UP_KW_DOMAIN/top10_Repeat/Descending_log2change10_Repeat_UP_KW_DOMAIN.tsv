@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Ahsg	-2.17410975069491	0.0003007973483414	1.0	alpha-2-HS-glycoprotein(Ahsg)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11625&tool=geneReport
+Gm14308	1.97563382558135	0.0012501298628334	1.0	predicted gene 14308(Gm14308)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100043381&tool=geneReport
+Rp1	-0.887319280167396	0.0079551087621635	1.0	retinitis pigmentosa 1 (human)(Rp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+Zan	-0.678623519365458	3.4697747676726e-05	0.0147749318288895	zonadhesin(Zan)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=22635&tool=geneReport
+Cd27	-0.628693236276582	0.0027968122209869	0.0998115690903065	CD27 antigen(Cd27)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=21940&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+C1s2	-0.472127581029472	0.0003967900079355	0.0406243584080924	complement component 1, s subcomponent 2(C1s2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=317677&tool=geneReport
+Kcp	-0.458202089543881	4.52046489968306e-07	0.0018096989319906	kielin/chordin-like protein(Kcp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=333088&tool=geneReport
+Chrdl2	-0.451637553775244	0.0019639442744227	0.0847844698746179	chordin-like 2(Chrdl2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=69121&tool=geneReport
+Ager	-0.416599101278632	0.001201421446556	0.0675970937617826	advanced glycosylation end product-specific receptor(Ager)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11596&tool=geneReport

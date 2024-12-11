@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Bnipl	-0.618350554570698	0.0027027736876208	0.0976807288073699	BCL2/adenovirus E1B 19kD interacting protein like(Bnipl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171388&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Ube2v1	-0.420607949872201	0.0013412262834173	0.0713711665576387	ubiquitin-conjugating enzyme E2 variant 1(Ube2v1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66589&tool=geneReport
+Krt20	-0.416557102886978	0.0016065994894015	0.0759141873536098	keratin 20(Krt20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66809&tool=geneReport
+Aanat	-0.390329541921692	0.0036693440241512	0.111605242916394	arylalkylamine N-acetyltransferase(Aanat)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11298&tool=geneReport
+Pde4c	-0.354526874929615	0.0041855474394136	0.11597232344006	phosphodiesterase 4C, cAMP specific(Pde4c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=110385&tool=geneReport
+Nos2	-0.347786755323277	0.0013624045175959	0.071624171458959	nitric oxide synthase 2, inducible(Nos2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=18126&tool=geneReport
+Tbc1d10c	-0.338759329672143	0.001576567863928	0.0753535089248896	TBC1 domain family, member 10c(Tbc1d10c)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=108995&tool=geneReport
+Anxa9	-0.32471283429245	2.94791078536548e-05	0.0138080141186519	annexin A9(Anxa9)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=71790&tool=geneReport

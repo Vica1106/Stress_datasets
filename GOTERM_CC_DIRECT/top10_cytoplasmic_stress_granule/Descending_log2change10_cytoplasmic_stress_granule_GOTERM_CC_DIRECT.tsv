@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Mov10	-0.225630904680344	0.0001318901449161	0.0229688768629325	Mov10 RISC complex RNA helicase(Mov10)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17454&tool=geneReport
+Cirbp	-0.195017619561775	0.0005539067414167	0.0463303424427869	cold inducible RNA binding protein(Cirbp)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=12696&tool=geneReport
+Dyrk3	0.152120337505662	0.0029759004773459	0.101448004541541	dual-specificity tyrosine phosphorylation regulated kinase 3(Dyrk3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=226419&tool=geneReport
+Kpna2	0.122991150501866	0.0026965084813273	0.0976807288073699	karyopherin subunit alpha 2(Kpna2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=16647&tool=geneReport
+Larp4	0.102436816797847	0.0018112214521057	0.0807977264920323	La ribonucleoprotein 4(Larp4)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=207214&tool=geneReport
+G3bp2	0.100186450323306	0.0030526192417068	0.10268200020219	G3BP stress granule assembly factor 2(G3bp2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=23881&tool=geneReport
+Caprin1	0.0927958827666526	0.0003450313866758	0.0378040914366841	cell cycle associated protein 1(Caprin1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=53872&tool=geneReport
+Ddx1	0.0910853545923462	0.0004788252399467	0.0444122262160549	DEAD box helicase 1(Ddx1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=104721&tool=geneReport
+Eif4e	0.0902495445933952	0.001199778978263	0.0675970937617826	eukaryotic translation initiation factor 4E(Eif4e)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13684&tool=geneReport
+Ddx6	0.083420992829354	0.0046971555256726	0.121850184120153	DEAD-box helicase 6(Ddx6)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13209&tool=geneReport

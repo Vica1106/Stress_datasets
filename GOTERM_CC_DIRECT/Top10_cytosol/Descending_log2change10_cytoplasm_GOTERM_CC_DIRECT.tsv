@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Zcchc13	-1.12973790108853	0.0030811423093232	1.0	zinc finger, CCHC domain containing 13(Zcchc13)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=75064&tool=geneReport
+Rp1	-0.887319280167396	0.0079551087621635	1.0	retinitis pigmentosa 1 (human)(Rp1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=19888&tool=geneReport
+Fos	0.619911425087992	1.83990128106291e-05	0.0119569780375895	FBJ osteosarcoma oncogene(Fos)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=14281&tool=geneReport
+Bnipl	-0.618350554570698	0.0027027736876208	0.0976807288073699	BCL2/adenovirus E1B 19kD interacting protein like(Bnipl)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=171388&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+Dnajb7	-0.515107197447537	0.0013062227454157	0.0699239695945963	DnaJ heat shock protein family (Hsp40) member B7(Dnajb7)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=57755&tool=geneReport
+Eqtn	-0.433428096647243	0.0006658345871858	0.0509824098121321	equatorin, sperm acrosome associated(Eqtn)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=67753&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Ube2v1	-0.420607949872201	0.0013412262834173	0.0713711665576387	ubiquitin-conjugating enzyme E2 variant 1(Ube2v1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66589&tool=geneReport
+Krt20	-0.416557102886978	0.0016065994894015	0.0759141873536098	keratin 20(Krt20)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=66809&tool=geneReport

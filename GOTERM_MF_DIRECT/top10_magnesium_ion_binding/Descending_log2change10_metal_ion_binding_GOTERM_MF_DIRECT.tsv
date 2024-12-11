@@ -1,0 +1,11 @@
+Gene_Name	log2FoldChange	pvalue	padj	Full Name	URL
+Gm14308	1.97563382558135	0.0012501298628334	1.0	predicted gene 14308(Gm14308)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=100043381&tool=geneReport
+mt-Co2	1.22748653466088	0.0087950649324052	0.159718575181921	cytochrome c oxidase II, mitochondrial(mt-Co2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=17709&tool=geneReport
+Egr2	0.599209471263157	1.68850847818551e-05	0.0119569780375895	early growth response 2(Egr2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13654&tool=geneReport
+C1s2	-0.472127581029472	0.0003967900079355	0.0406243584080924	complement component 1, s subcomponent 2(C1s2)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=317677&tool=geneReport
+Nr4a1	0.432546517025328	3.50666999239745e-06	0.0046929263555399	nuclear receptor subfamily 4, group A, member 1(Nr4a1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=15370&tool=geneReport
+Gdpd3	-0.380351705385608	9.45055347938312e-05	0.0208312435282026	glycerophosphodiester phosphodiesterase domain containing 3(Gdpd3)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=68616&tool=geneReport
+Egr1	0.371963576150312	0.0002728995536428	0.033861232033465	early growth response 1(Egr1)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=13653&tool=geneReport
+Aire	-0.361038297628323	0.0041354646876072	0.11597232344006	autoimmune regulator(Aire)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=11634&tool=geneReport
+Gm9785	-0.360682019967128	0.0067447982500643	0.144737526572536	predicted pseudogene 9785(Gm9785)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=621818&tool=geneReport
+Trim72	-0.35672647689966	0.0081997022704247	0.155920638864845	tripartite motif-containing 72(Trim72)	https://davidbioinformatics.nih.gov/api.jsp?type=ENTREZ_GENE_ID&ids=434246&tool=geneReport
